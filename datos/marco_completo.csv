@@ -1,0 +1,151 @@
+anio_lista,posicion,titulo,artistas,numero_uno_anual,clave
+2011,1,Corazón Sin Cara,Prince Royce,True,corazon sin cara|prince royce
+2011,2,Taboo,Don Omar,False,taboo|don omar
+2011,3,Me Encantaria,Fidel Rueda,False,me encantaria|fidel rueda
+2011,4,Danza Kuduro,Don Omar featuring Lucenzo,False,danza kuduro|don omar
+2011,5,Give Me Everything,"Pitbull featuring Ne-Yo, Afrojack, and Nayer",False,give me everything|pitbull
+2011,6,Te Amo y Te Amo,La Adictiva Banda San Jose de Mesillas,False,te amo y te amo|la adictiva banda san jose de mesillas
+2011,7,Ni Lo Intentes,Julion Alvarez y Su Norteno Banda,False,ni lo intentes|julion alvarez y su norteno banda
+2011,8,You,Romeo Santos,False,you|romeo santos
+2011,9,Cuanto Me Cuesta,La Arrolladora Banda El Limón,False,cuanto me cuesta|la arrolladora banda el limon
+2011,10,Ven a Bailar,Jennifer Lopez featuring Pitbull,False,ven a bailar|jennifer lopez
+2012,1,Llamada de Mi Ex,La Arrolladora Banda El Limón,True,llamada de mi ex|la arrolladora banda el limon
+2012,2,Dutty Love,Don Omar featuring Natti Natasha,False,dutty love|don omar
+2012,3,Inténtalo,3Ball MTY featuring El Bebeto and America Sierra,False,intentalo|3ball mty
+2012,4,Bailando Por El Mundo,Juan Magan featuring Pitbull and El Cata,False,bailando por el mundo|juan magan
+2012,5,Ai Se Eu Te Pego,Michel Teló,False,ai se eu te pego|michel telo
+2012,6,Amor Confuso,Gerardo Ortíz,False,amor confuso|gerardo ortiz
+2012,7,Lovumba,Daddy Yankee,False,lovumba|daddy yankee
+2012,8,Un Hombre Normal,Espinoza Paz,False,un hombre normal|espinoza paz
+2012,9,El Verdadero Amor Perdona,Maná featuring Prince Royce,False,el verdadero amor perdona|mana
+2012,10,Las Cosas Pequeñas,Prince Royce,False,las cosas pequenas|prince royce
+2013,1,Vivir Mi Vida,Marc Anthony,True,vivir mi vida|marc anthony
+2013,2,Limbo,Daddy Yankee,False,limbo|daddy yankee
+2013,3,Darte un Beso,Prince Royce,False,darte un beso|prince royce
+2013,4,Zumba,Don Omar,False,zumba|don omar
+2013,5,Propuesta Indecente,Romeo Santos,False,propuesta indecente|romeo santos
+2013,6,Algo Me Gusta de Ti,Wisin & Yandel featuring Chris Brown and T-Pain,False,algo me gusta de ti|wisin
+2013,7,Llévame Contigo,Romeo Santos,False,llevame contigo|romeo santos
+2013,8,La Pregunta,J Alvarez,False,la pregunta|j alvarez
+2013,9,Loco,Enrique Iglesias featuring Romeo Santos,False,loco|enrique iglesias
+2013,10,El Ruido de Tus Zapatos,La Arrolladora Banda El Limón,False,el ruido de tus zapatos|la arrolladora banda el limon
+2014,1,Bailando,Enrique Iglesias featuring Descemer Bueno and Gente de Zona,True,bailando|enrique iglesias
+2014,2,Propuesta Indecente,Romeo Santos,False,propuesta indecente|romeo santos
+2014,3,Odio,Romeo Santos featuring Drake,False,odio|romeo santos
+2014,4,El Perdedor,Enrique Iglesias featuring Marco Antonio Solís,False,el perdedor|enrique iglesias
+2014,5,Eres Mía,Romeo Santos,False,eres mia|romeo santos
+2014,6,Darte un Beso,Prince Royce,False,darte un beso|prince royce
+2014,7,6 AM,J Balvin featuring Farruko,False,6 am|j balvin
+2014,8,Vivir Mi Vida,Marc Anthony,False,vivir mi vida|marc anthony
+2014,9,Adrenalina,Wisin featuring Jennifer Lopez and Ricky Martin,False,adrenalina|wisin
+2014,10,Hermosa Experiencia,Banda Sinaloense MS de Sergio Lizárraga,False,hermosa experiencia|banda sinaloense ms de sergio lizarraga
+2015,1,El Perdón,Nicky Jam featuring Enrique Iglesias,True,el perdon|nicky jam
+2015,2,Propuesta Indecente,Romeo Santos,False,propuesta indecente|romeo santos
+2015,3,Hilito,Romeo Santos,False,hilito|romeo santos
+2015,4,Ay Vamos,J Balvin,False,ay vamos|j balvin
+2015,5,Ginza,J Balvin,False,ginza|j balvin
+2015,6,Te Metiste,Ariel Camacho y los Plebes del Rancho,False,te metiste|ariel camacho y los plebes del rancho
+2015,7,La Gozadera,Gente de Zona featuring Marc Anthony,False,la gozadera|gente de zona
+2015,8,Fanatica Sensual,Plan B,False,fanatica sensual|plan b
+2015,9,Hablame de Ti,Banda Sinaloense MS de Sergio Lizarraga,False,hablame de ti|banda sinaloense ms de sergio lizarraga
+2015,10,Bailando,Enrique Iglesias featuring Descemer Bueno and Gente de Zona,False,bailando|enrique iglesias
+2016,1,Hasta el Amanecer,Nicky Jam,True,hasta el amanecer|nicky jam
+2016,2,Duele el Corazón,Enrique Iglesias featuring Wisin,False,duele el corazon|enrique iglesias
+2016,3,Ginza,J Balvin,False,ginza|j balvin
+2016,4,La Bicicleta,Carlos Vives and Shakira,False,la bicicleta|carlos vives
+2016,5,Solo Con Verte,Banda Sinaloense MS de Sergio Lizarraga,False,solo con verte|banda sinaloense ms de sergio lizarraga
+2016,6,Bobo,J Balvin,False,bobo|j balvin
+2016,7,El Perdedor,Maluma featuring Yandel,False,el perdedor|maluma
+2016,8,Shaky Shaky,Daddy Yankee,False,shaky shaky|daddy yankee
+2016,9,Encantadora,Yandel,False,encantadora|yandel
+2016,10,El Perdón,Nicky Jam and Enrique Iglesias,False,el perdon|nicky jam
+2017,1,Despacito,Luis Fonsi & Daddy Yankee featuring Justin Bieber,True,despacito|luis fonsi
+2017,2,Mi Gente,J Balvin & Willy William featuring Beyoncé,False,mi gente|j balvin
+2017,3,Chantaje,Shakira featuring Maluma,False,chantaje|shakira
+2017,4,Felices los 4,Maluma,False,felices los 4|maluma
+2017,5,Escápate Conmigo,Wisin featuring Ozuna,False,escapate conmigo|wisin
+2017,6,El Amante,Nicky Jam,False,el amante|nicky jam
+2017,7,Súbeme la Radio,Enrique Iglesias featuring Descemer Bueno and Zion & Lennox,False,subeme la radio|enrique iglesias
+2017,8,Reggaetón Lento (Bailemos),CNCO featuring Little Mix,False,reggaeton lento|cnco
+2017,9,Adiós Amor,Christian Nodal,False,adios amor|christian nodal
+2017,10,Ahora Dice,"Chris Jedi featuring Arcángel, J Balvin & Ozuna",False,ahora dice|chris jedi
+2018,1,Despacito,Luis Fonsi & Daddy Yankee featuring Justin Bieber,True,despacito|luis fonsi
+2018,2,Mi Gente,J Balvin & Willy William featuring Beyoncé,False,mi gente|j balvin
+2018,3,Dura,Daddy Yankee,False,dura|daddy yankee
+2018,4,X,Nicky Jam and J Balvin,False,x|nicky jam
+2018,5,Te Boté,"Casper Mágico, Nio García, Darell, Nicky Jam, Ozuna, and Bad Bunny",False,te bote|casper magico
+2018,6,El Farsante,Ozuna and Romeo Santos,False,el farsante|ozuna
+2018,7,Échame la Culpa,Luis Fonsi and Demi Lovato,False,echame la culpa|luis fonsi
+2018,8,La Modelo,Ozuna and Cardi B,False,la modelo|ozuna
+2018,9,Sin Pijama,Becky G and Natti Natasha,False,sin pijama|becky g
+2018,10,Me Niego,Reik featuring Ozuna and Wisin,False,me niego|reik
+2019,1,MIA,Bad Bunny featuring Drake,True,mia|bad bunny
+2019,2,Taki Taki,"DJ Snake featuring Selena Gomez, Ozuna and Cardi B",False,taki taki|dj snake
+2019,3,Con Calma,Daddy Yankee & Katy Perry featuring Snow,False,con calma|daddy yankee
+2019,4,Calma,Pedro Capó and Farruko,False,calma|pedro capo
+2019,5,Ella Quiere Beber,"Anuel AA, and Romeo Santos",False,ella quiere beber|anuel aa
+2019,6,Otro Trago,"Sech featuring Darell, Nicky Jam, Ozuna and Anuel AA",False,otro trago|sech
+2019,7,Callaíta,Bad Bunny featuring Tainy,False,callaita|bad bunny
+2019,8,Soltera,Lunay featuring Daddy Yankee and Bad Bunny,False,soltera|lunay
+2019,9,No Me Conoce,Jhay Cortez featuring J Balvin and Bad Bunny,False,no me conoce|jhay cortez
+2019,10,Te Boté,"Casper Magico, Nio García & Darell featuring Nicky Jam, Ozuna and Bad Bunny",False,te bote|casper magico
+2020,1,Ritmo (Bad Boys for Life),The Black Eyed Peas and J Balvin,True,ritmo|black eyed peas
+2020,2,Tusa,Karol G and Nicki Minaj,False,tusa|karol g
+2020,3,Vete,Bad Bunny,False,vete|bad bunny
+2020,4,Yo Perreo Sola,Bad Bunny,False,yo perreo sola|bad bunny
+2020,5,Safaera,Bad Bunny,False,safaera|bad bunny
+2020,6,La Difícil,Bad Bunny,False,la dificil|bad bunny
+2020,7,Sigues Con Él,Arcángel and Sech,False,sigues con el|arcangel
+2020,8,Mamacita,"Black Eyed Peas, Ozuna and J.Rey Soul",False,mamacita|black eyed peas
+2020,9,Si Veo a Tu Mamá,Bad Bunny,False,si veo a tu mama|bad bunny
+2020,10,La Jeepeta,"Nio Garcia, Anuel AA, Myke Towers, Brray and Juanka",False,la jeepeta|nio garcia
+2021,1,Dakiti,Bad Bunny and Jhay Cortez,True,dakiti|bad bunny
+2021,2,Telepatía,Kali Uchis,False,telepatia|kali uchis
+2021,3,Hawái,Maluma and The Weeknd,False,hawai|maluma
+2021,4,La Noche de Anoche,Bad Bunny and Rosalía,False,la noche de anoche|bad bunny
+2021,5,Yonaguni,Bad Bunny,False,yonaguni|bad bunny
+2021,6,Todo de Ti,Rauw Alejandro,False,todo de ti|rauw alejandro
+2021,7,Pepas,Farruko,False,pepas|farruko
+2021,8,Bichota,Karol G,False,bichota|karol g
+2021,9,Fiel,"Los Legendarios, Wisin and Jhay Cortez",False,fiel|los legendarios
+2021,10,Bandido,Myke Towers and Juhn,False,bandido|myke towers
+2022,1,Me Porto Bonito,Bad Bunny and Chencho Corleone,True,me porto bonito|bad bunny
+2022,2,Tití Me Preguntó,Bad Bunny,False,titi me pregunto|bad bunny
+2022,3,Moscow Mule,Bad Bunny,False,moscow mule|bad bunny
+2022,4,Mamiii,Becky G and Karol G,False,mamiii|becky g
+2022,5,Provenza,Karol G,False,provenza|karol g
+2022,6,Efecto,Bad Bunny,False,efecto|bad bunny
+2022,7,Party,Bad Bunny and Rauw Alejandro,False,party|bad bunny
+2022,8,Después de la Playa,Bad Bunny,False,despues de la playa|bad bunny
+2022,9,Pepas,Farruko,False,pepas|farruko
+2022,10,Ojitos Lindos,Bad Bunny and Bomba Estereo,False,ojitos lindos|bad bunny
+2023,1,Ella Baila Sola,Eslabon Armado and Peso Pluma,True,ella baila sola|eslabon armado
+2023,2,La Bebé,Yng Lvcas and Peso Pluma,False,la bebe|yng lvcas
+2023,3,Un x100to,Grupo Frontera and Bad Bunny,False,un x100to|grupo frontera
+2023,4,TQG,Karol G and Shakira,False,tqg|karol g
+2023,5,Bebe Dame,Grupo Frontera and Fuerza Regida,False,bebe dame|grupo frontera
+2023,6,Where She Goes,Bad Bunny,False,where she goes|bad bunny
+2023,7,Tití Me Preguntó,Bad Bunny,False,titi me pregunto|bad bunny
+2023,8,PRC,Peso Pluma and Natanael Cano,False,prc|peso pluma
+2023,9,Por Las Noches,Peso Pluma,False,por las noches|peso pluma
+2023,10,Me Porto Bonito,Bad Bunny,False,me porto bonito|bad bunny
+2024,1,Gata Only,FloyyMenor and Cris MJ,True,gata only|floyymenor
+2024,2,Perro Negro,Bad Bunny and Feid,False,perro negro|bad bunny
+2024,3,La Diabla,Xavi,False,la diabla|xavi
+2024,4,Monaco,Bad Bunny,False,monaco|bad bunny
+2024,5,Qlona,Karol G and Peso Pluma,False,qlona|karol g
+2024,6,Harley Quinn,Marshmello and Fuerza Regida,False,harley quinn|marshmello
+2024,7,Si No Quieres No,Luis R. Conriquez and Netón Vega,False,si no quieres no|luis r conriquez
+2024,8,Si Antes Te Hubiera Conocido,Karol G,False,si antes te hubiera conocido|karol g
+2024,9,Tú Name,Fuerza Regida,False,tu name|fuerza regida
+2024,10,La Víctima,Xavi,False,la victima|xavi
+2025,1,DTMF,Bad Bunny,True,dtmf|bad bunny
+2025,2,Baile Inolvidable,Bad Bunny,False,baile inolvidable|bad bunny
+2025,3,Nuevayol,Bad Bunny,False,nuevayol|bad bunny
+2025,4,Eoo,Bad Bunny,False,eoo|bad bunny
+2025,5,Me Jalo,Fuerza Regida and Grupo Frontera,False,me jalo|fuerza regida
+2025,6,Tu Boda,Óscar Maydon and Fuerza Regida,False,tu boda|oscar maydon
+2025,7,Loco,Netón Vega,False,loco|neton vega
+2025,8,Que Pasaría…,Rauw Alejandro and Bad Bunny,False,que pasaria|rauw alejandro
+2025,9,Voy A Llevarte Pa PR,Bad Bunny,False,voy a llevarte pa pr|bad bunny
+2025,10,Por Esos Ojos,Fuerza Regida,False,por esos ojos|fuerza regida

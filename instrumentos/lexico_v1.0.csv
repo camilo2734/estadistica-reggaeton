@@ -1,0 +1,53 @@
+dimension,patron,tipo,criterio
+sexual,\bsex(o|os|ual|uales)\b,estandar,Mención literal de sexo
+sexual,\bhac(er|iendo|iamos|ia|e) el amor\b,estandar,Locución estándar
+sexual,\b(hacerte|te hacia|te hago|hacerla|la hice|te hice) mia\b,variante,Fórmula de posesión sexual
+sexual,\blo (hicimos|hicimo|hacemos|haciamos|hacia|hice)\b,doble_sentido,'Hacerlo' en sentido sexual; ambiguo
+sexual,\bfoll(ar|amos|ando|arte)\b,estandar,Variante peninsular
+sexual,\bculi(ar|amos|ando|ao|ado|arte)\b,jerga,Jerga caribeña y colombiana
+sexual,\bching(ar|ando|amos|arte|ue)\b,jerga,Jerga mexicana; se excluye 'chingon' (valorativo)
+sexual,\bcog(er|erte|i|imos|iendo|io)\b,doble_sentido,Sexual en MX y AR; 'tomar' en el Caribe
+sexual,\b(comerte|te como|te comi|me comes|comernos)\b,doble_sentido,Metáfora sexual frecuente
+sexual,\bgem(ir|ia|ias|ido|idos|imos|iste)\b,estandar,Referencia a gemidos
+sexual,\bdesnud(o|a|os|as|ita|arte)\b,estandar,Desnudez
+sexual,\borgasmos?\b,estandar,Término explícito
+sexual,\bbellac(o|a|os|as|ona|ita|ito)\b,jerga,Jerga puertorriqueña: excitación sexual
+sexual,\bbellaque(o|ar|ando|a|amos)\b,jerga,Jerga puertorriqueña: actividad sexual o perreo sexualizado
+sexual,\ben (la|mi|tu) cama\b,doble_sentido,Lugar del encuentro sexual; ambiguo
+sexual,\b(darte|dar|te doy|te di|le doy|dale) duro\b,doble_sentido,Metáfora sexual frecuente
+sexual,\ben cuatro\b,jerga,Postura sexual
+sexual,\bcondon(es)?\b|\bpreservativos?\b,estandar,Profiláctico
+sexual,\bporno\b|\bxxx\b,estandar,Pornografía
+sexual,\b(toto|totito|chocha|crica|cuca)\b,jerga,Jerga para genitales femeninos
+sexual,\bbicho\b,doble_sentido,Jerga puertorriqueña para genitales masculinos; también 'insecto'
+sexual,\b(mojad[oa]s?|empap(ate|ada|ar))\b,doble_sentido,Excitación; ambiguo
+sexual,\bexcit(ar|ada|ado|a|as)\b,estandar,Excitación
+cuerpo,\bcuerp(o|os|ito|azo|on)\b,estandar,Cuerpo
+cuerpo,\bcul(o|os|ito|ona|onas|on|ote)\b,jerga,Glúteos (vulgar)
+cuerpo,\bnalg(a|as|otas|uita)\b|\btrasero\b|\bgluteos?\b|\bpompis\b,estandar,Glúteos
+cuerpo,\bbooty\b|\bbum ?bum\b,anglicismo,Glúteos (anglicismo / onomatopeya)
+cuerpo,\btet(a|as|otas|ica)\b|\bsenos?\b|\bpechos?\b,estandar,Pechos; 'pecho' puede referir al hablante
+cuerpo,\bcintur(a|ita)\b|\bcaderas?\b|\bcurvas?\b,estandar,Figura
+cuerpo,\bpiern(a|as|otas)\b,estandar,Piernas
+cuerpo,\blabios?\b|\bboca\b,estandar,Boca
+cuerpo,\bpiel\b,estandar,Piel
+cuerpo,\bsilicon(a|as)\b|\boperad(a|as)\b|\bimplantes?\b|\bcirugias?\b|\blipo\b|\bbotox\b,estandar,Modificación corporal
+apariencia,\bbonit(a|o|as|os|ita)\b|\blind(a|o|as|os|ura)\b|\bhermos(a|o|as|os|ura)\b,estandar,Adjetivos de belleza
+apariencia,\bprecios(a|o|as|os)\b|\bguap(a|o|as|os)\b|\bbell(a|o|as|eza)\b|\bdiosa\b|\bmunec(a|ita)\b,estandar,Adjetivos de belleza
+apariencia,\bsexy\b|\bmodelo\b|\bbuenot(a|as)\b,variante,Atractivo físico
+apariencia,\b(esta|tas|ta|estas|tan|estan) (buen(a|as)|dur(a|as)|ric(a|as))\b,doble_sentido,'Está buena / dura / rica': atractivo sexualizado
+apariencia,\bmamacita\b,jerga,Piropo; se excluye 'mami' y 'bebe' como apelativos neutros
+baile_fiesta,\bperre(o|ar|ando|a|ito|amos|as|en)\b,jerga,Perreo
+baile_fiesta,\bbail(ar|a|e|ando|amos|emos|arte|alo|ame|as|oteo)\b,estandar,Bailar
+baile_fiesta,\bpeg(ate|arte|adita|adito|aito|ao|ados|aditos)\b,variante,Bailar pegados
+baile_fiesta,\bmene(a|ar|ate|o|ando)\b|\bmuev(e|elo|ete|elo)\b|\bmover(lo|te)?\b|\bhasta abajo\b|\btwerk\b,variante,Movimiento de baile
+baile_fiesta,\bfiest(a|as|ita)\b|\bparty\b|\bdisco(teca)?s?\b|\bclub\b|\bjangue(o|ar|ando)\b|\bjanguear\b|\brumba\b,variante,Fiesta
+sustancias,\bbeb(er|iendo|ida|idas|imos|o|ia|amos)\b,estandar,Beber; se excluye 'bebe' por homografía con 'bebé'
+sustancias,\btragos?\b|\balcohol\b|\bborrach(o|a|os|as|era)\b|\bshots?\b|\bbotell(a|as)\b|\bcerveza(s)?\b,estandar,Alcohol
+sustancias,\bwhisk(y|ey)\b|\btequila\b|\bvodka\b|\bron\b|\bchampa(n|na|gne)\b|\bhennessy\b|\bmoet\b|\bmoscow mule\b|\bguaro\b,variante,Bebidas alcohólicas
+sustancias,\bfum(ar|ando|o|amos|e|emos)\b|\bhumo\b,estandar,Fumar
+sustancias,\bmari(huana|juana|guana)\b|\bweed\b|\bmota\b|\bblunts?\b|\bphillie\b|\bkush\b|\bcripy\b|\bhookah\b,jerga,Cannabis y tabaco
+sustancias,\bdrog(a|as)\b|\bpepas?\b|\bperico\b|\bcocaina\b|\bxanax\b|\bmolly\b|\bpercocet\b|\blean\b|\bcodeina\b,jerga,Otras drogas; 'pepa' y 'perico' con doble sentido
+dinero_lujo,\bdinero\b|\bplata\b|\bchavos?\b|\bbilletes?\b|\bmoney\b|\bcash\b|\bmillon(es)?\b|\bmillonari(o|a|os)\b|\bferia\b,variante,Dinero
+dinero_lujo,\bgucci\b|\bprada\b|\bversace\b|\blouboutin\b|\bchanel\b|\bfendi\b|\bdior\b|\bbalenciaga\b|\bvuitton\b|\bcartier\b|\brolex\b|\bpatek\b|\bsupreme\b|\bsephora\b,variante,Marcas de lujo
+dinero_lujo,\blambo(rghini)?\b|\bferrari\b|\bbugatti\b|\bbentley\b|\bbenz\b|\bjeepeta\b|\byates?\b|\bjets?\b|\bmall\b|\btarjeta\b|\bdiamantes?\b|\bjoyas?\b|\boro\b,variante,Bienes de lujo

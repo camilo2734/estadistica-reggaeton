@@ -1,0 +1,4 @@
+# Las letras son obras protegidas: nunca se versionan ni se entregan
+letras/
+*.txt.bak
+__pycache__/

@@ -1,0 +1,57 @@
+base|variable|significado|tipo|valores|origen
+base_analitica|codigo|Identificador único de la canción en el corpus. Es también el nombre del archivo de su letra (C###.txt).|texto|C001–C196 (C193 no existe: no respuesta)|s01_marco_muestral.py
+base_analitica|anio_lista|Año de referencia de la canción: primer año en el top 10 anual (estrato 1) o año de su primera semana en el número uno (estrato 2).|entero|2011–2025|Fuentes de Wikipedia; s01
+base_analitica|posicion_primer_anio|Posición en el top 10 anual en su primer año en la lista. Vacía en el estrato 2.|entero|1–10 o vacío|Top 10 anual; s01
+base_analitica|titulo|Título de la canción tal como aparece en la fuente, sin comillas.|texto|—|Fuentes de Wikipedia
+base_analitica|artistas|Intérpretes acreditados en la fuente, en su orden original.|texto|—|Fuentes de Wikipedia
+base_analitica|anios_en_lista|Número de años distintos en que la canción estuvo en el top 10 anual. Vacía en el estrato 2.|entero|1–2 o vacío|s01
+base_analitica|mejor_posicion|Mejor posición alcanzada en el top 10 anual. Vacía en el estrato 2.|entero|1–10 o vacío|s01
+base_analitica|fue_numero_uno_anual|Indica si la canción fue la número uno de alguna lista de fin de año. Vacía en el estrato 2.|lógico|True / False / vacío|Top 10 anual (símbolo ‡ en la fuente); s01
+base_analitica|estrato|Estrato de popularidad del diseño muestral.|entero|1 = top 10 anual (censo); 2 = otros números uno semanales (muestra aleatoria)|s01
+base_analitica|fecha_primer_numero_uno|Fecha de la primera semana de la canción en el número uno de Hot Latin Songs o Latin Airplay. Solo estrato 2.|fecha (AAAA-MM-DD)|2011-01-01 a 2025-12-27, o vacío|Listas de números uno; s01
+base_analitica|genero_musical|Género musical asignado a la canción.|texto|reggaetón, trap latino, reggaetón-pop, etc.|clasificacion_genero_v1.1.csv
+base_analitica|clase|Clase de género usada para definir el corpus.|categórica|urbano = el reggaetón, el trap latino o el dembow son el género principal; hibrido = fusión con base de reggaetón discutible|clasificacion_genero_v1.1.csv
+base_analitica|justificacion|Razón escrita de la clasificación de género de la canción.|texto|—|clasificacion_genero_v1.1.csv
+base_analitica|periodo|Periodo de cinco años al que pertenece anio_lista.|categórica|P1_2011_2015, P2_2016_2020, P3_2021_2025|config.PERIODOS; s01
+base_analitica|colaboracion|Indica si la canción acredita a más de un intérprete.|binaria|1 = sí; 0 = no|s01
+base_analitica|peso|Peso de diseño: inverso de la probabilidad de inclusión (N_h / n_h). Se usa para estimar la población de éxitos urbanos.|decimal|1 en el estrato 1; 1,91 a 2,02 en el estrato 2|s01
+base_analitica|genero_interpretes|Composición por género de los intérpretes acreditados.|categórica|solo_hombres, solo_mujeres, mixto|metadatos_interpretes_v1.1.csv; s01
+base_analitica|participa_mujer|Indica si al menos una intérprete es mujer (variable de la pregunta S1).|binaria|1 = sí; 0 = solo hombres|metadatos_interpretes_v1.1.csv; s01
+base_analitica|pais_principal|País del primer intérprete acreditado.|texto|Puerto Rico, Colombia, etc.|metadatos_interpretes_v1.1.csv
+base_analitica|pais_grupo|País del intérprete principal agrupado.|categórica|Puerto Rico, Colombia, Otro|s01
+base_analitica|n_palabras|Número de palabras del texto principal de la letra limpia (sin coros de fondo entre paréntesis).|entero|≥ 0|s02_variables_texto.py
+base_analitica|n_tipos|Número de palabras distintas del texto principal.|entero|≥ 0|s02
+base_analitica|ttr|Razón tipo-token: n_tipos / n_palabras. Depende de la longitud de la letra.|decimal|0–1|s02
+base_analitica|mattr50|Riqueza léxica MATTR: proporción media de palabras distintas en ventanas móviles de 50 palabras (variable de la pregunta S2).|decimal|0–1; más alto = vocabulario más variado|s02
+base_analitica|n_palabras_coros_fondo|Número de palabras de los coros de fondo (texto entre paréntesis), que se separan del texto principal.|entero|≥ 0|s02
+base_analitica|prop_ingles|Proporción de palabras funcionales en inglés sobre el total de palabras funcionales en inglés y español.|decimal|0–1|s02
+base_analitica|lex_sexual_n|Número de coincidencias con los patrones de la dimensión sexual del léxico (letra completa, con coros).|entero|≥ 0|lexico_v1.0.csv; s02
+base_analitica|lex_sexual_x100|Coincidencias de la dimensión sexual por cada 100 palabras de la letra completa.|decimal|≥ 0|s02
+base_analitica|lex_sexual_presente|Indica si la letra tiene al menos un término sexual del léxico (indicador principal de la pregunta P).|binaria|1 = sí; 0 = no|s02
+base_analitica|lex_cuerpo_n|Coincidencias de la dimensión cuerpo del léxico.|entero|≥ 0|lexico_v1.0.csv; s02
+base_analitica|lex_cuerpo_x100|Coincidencias de la dimensión cuerpo por cada 100 palabras.|decimal|≥ 0|s02
+base_analitica|lex_cuerpo_presente|Indica si la letra tiene al menos un término de la dimensión cuerpo.|binaria|1 = sí; 0 = no|s02
+base_analitica|lex_apariencia_n|Coincidencias de la dimensión apariencia del léxico.|entero|≥ 0|lexico_v1.0.csv; s02
+base_analitica|lex_apariencia_x100|Coincidencias de la dimensión apariencia por cada 100 palabras.|decimal|≥ 0|s02
+base_analitica|lex_apariencia_presente|Indica si la letra tiene al menos un término de la dimensión apariencia.|binaria|1 = sí; 0 = no|s02
+base_analitica|lex_baile_fiesta_n|Coincidencias de la dimensión baile y fiesta del léxico.|entero|≥ 0|lexico_v1.0.csv; s02
+base_analitica|lex_baile_fiesta_x100|Coincidencias de la dimensión baile y fiesta por cada 100 palabras.|decimal|≥ 0|s02
+base_analitica|lex_baile_fiesta_presente|Indica si la letra tiene al menos un término de la dimensión baile y fiesta.|binaria|1 = sí; 0 = no|s02
+base_analitica|lex_sustancias_n|Coincidencias de la dimensión sustancias (alcohol y drogas) del léxico.|entero|≥ 0|lexico_v1.0.csv; s02
+base_analitica|lex_sustancias_x100|Coincidencias de la dimensión sustancias por cada 100 palabras.|decimal|≥ 0|s02
+base_analitica|lex_sustancias_presente|Indica si la letra tiene al menos un término de la dimensión sustancias.|binaria|1 = sí; 0 = no|s02
+base_analitica|lex_dinero_lujo_n|Coincidencias de la dimensión dinero y lujo del léxico.|entero|≥ 0|lexico_v1.0.csv; s02
+base_analitica|lex_dinero_lujo_x100|Coincidencias de la dimensión dinero y lujo por cada 100 palabras.|decimal|≥ 0|s02
+base_analitica|lex_dinero_lujo_presente|Indica si la letra tiene al menos un término de la dimensión dinero y lujo.|binaria|1 = sí; 0 = no|s02
+base_analitica|excluida_idioma|Indica si la canción se excluye del análisis por tener más de la mitad de las palabras funcionales en inglés (prop_ingles > 0,5).|binaria|1 = excluida; 0 = incluida|s02
+base_analitica|llm_sexual|Nivel de contenido sexual asignado por el LLM con el prompt v1.0 (no superó la validación: solo exploratorio).|ordinal|0 = ninguno; 1 = insinuado; 2 = explícito|registros/codificacion_llm.csv
+base_analitica|llm_cuerpo|Referencia al cuerpo de una mujer con valoración estética o sexual, según el LLM (exploratorio).|binaria|1 = sí; 0 = no|registros/codificacion_llm.csv
+base_analitica|llm_agencia|Mujer presentada como sujeto que decide por sí misma, según el LLM (exploratorio).|binaria|1 = sí; 0 = no|registros/codificacion_llm.csv
+base_analitica|llm_duda|El LLM declaró duda genuina en alguna categoría (no cambia el código).|binaria|1 = sí; 0 = no|registros/codificacion_llm.csv
+base_analitica|en_validacion|Indica si la canción pertenece a la submuestra aleatoria de validación codificada por los humanos.|binaria|1 = sí; 0 = no|s03_submuestra_validacion.py
+base_analitica|llm_sexual_explicito|Versión binaria del desenlace principal según el LLM: llm_sexual = 2.|binaria|1 = explícito; 0 = no explícito|s06_inferencia.py
+base_analitica|analizable|Indica si la canción entra al análisis (no excluida por idioma).|binaria|1 = sí; 0 = no|s06
+lexico|dimension|Dimensión temática a la que pertenece el patrón.|categórica|sexual, cuerpo, apariencia, baile_fiesta, sustancias, dinero_lujo|lexico_v1.0.csv
+lexico|patron|Expresión regular que se busca en el texto normalizado (minúsculas, sin tildes y sin apóstrofos de elisión). \b marca el borde de palabra y los paréntesis con barras verticales separan las variantes aceptadas.|texto (regex)|—|lexico_v1.0.csv
+lexico|tipo|Tipo de término que cubre el patrón.|categórica|estandar = palabra o locución estándar; variante = forma flexionada o alternativa; jerga = argot regional; doble_sentido = expresión que el contexto vuelve sexual; anglicismo = término en inglés usado en español|lexico_v1.0.csv
+lexico|criterio|Razón de inclusión del patrón en el léxico.|texto|—|lexico_v1.0.csv

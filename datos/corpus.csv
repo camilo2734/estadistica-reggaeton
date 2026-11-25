@@ -1,0 +1,196 @@
+codigo,clave,anio_lista,posicion_primer_anio,titulo,artistas,anios_en_lista,mejor_posicion,fue_numero_uno_anual,estrato,fecha_primer_numero_uno,genero_musical,clase,justificacion,periodo,colaboracion,peso,genero_interpretes,participa_mujer,pais_principal,pais_grupo
+C001,taboo|don omar,2011,2.0,Taboo,Don Omar,1.0,2.0,False,1,,reggaetón,urbano,Reggaetón (fusión con lambada) de intérprete urbano,P1_2011_2015,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C002,danza kuduro|don omar,2011,4.0,Danza Kuduro,Don Omar featuring Lucenzo,1.0,4.0,False,1,,kuduro / reggaetón,hibrido,Base de kuduro-house; intérprete urbano; género principal discutible,P1_2011_2015,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C003,dutty love|don omar,2012,2.0,Dutty Love,Don Omar featuring Natti Natasha,1.0,2.0,False,1,,reggaetón,urbano,Reggaetón romántico,P1_2011_2015,1,1.0,mixto,1,Puerto Rico,Puerto Rico
+C004,lovumba|daddy yankee,2012,7.0,Lovumba,Daddy Yankee,1.0,7.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C005,limbo|daddy yankee,2013,2.0,Limbo,Daddy Yankee,1.0,2.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C006,zumba|don omar,2013,4.0,Zumba,Don Omar,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón / dembow,P1_2011_2015,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C007,algo me gusta de ti|wisin,2013,6.0,Algo Me Gusta de Ti,Wisin & Yandel featuring Chris Brown and T-Pain,1.0,6.0,False,1,,reggaetón,urbano,Reggaetón de Wisin & Yandel (versos en inglés: ver filtro de idioma),P1_2011_2015,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C008,la pregunta|j alvarez,2013,8.0,La Pregunta,J Alvarez,1.0,8.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C009,6 am|j balvin,2014,7.0,6 AM,J Balvin featuring Farruko,1.0,7.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,1,1.0,solo_hombres,0,Colombia,Colombia
+C010,adrenalina|wisin,2014,9.0,Adrenalina,Wisin featuring Jennifer Lopez and Ricky Martin,1.0,9.0,False,1,,pop latino / reggaetón,hibrido,Pop latino bailable con intérprete urbano; género principal discutible,P1_2011_2015,1,1.0,mixto,1,Puerto Rico,Puerto Rico
+C011,el perdon|nicky jam,2015,1.0,El Perdón,Nicky Jam featuring Enrique Iglesias,2.0,1.0,True,1,,reggaetón,urbano,Reggaetón-pop,P1_2011_2015,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C012,ay vamos|j balvin,2015,4.0,Ay Vamos,J Balvin,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,0,1.0,solo_hombres,0,Colombia,Colombia
+C013,ginza|j balvin,2015,5.0,Ginza,J Balvin,2.0,3.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,0,1.0,solo_hombres,0,Colombia,Colombia
+C014,la gozadera|gente de zona,2015,7.0,La Gozadera,Gente de Zona featuring Marc Anthony,1.0,7.0,False,1,,cubatón / salsa,hibrido,Fusión cubatón-salsa; género principal discutible,P1_2011_2015,1,1.0,solo_hombres,0,Cuba,Otro
+C015,fanatica sensual|plan b,2015,8.0,Fanatica Sensual,Plan B,1.0,8.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C016,hasta el amanecer|nicky jam,2016,1.0,Hasta el Amanecer,Nicky Jam,1.0,1.0,True,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C017,duele el corazon|enrique iglesias,2016,2.0,Duele el Corazón,Enrique Iglesias featuring Wisin,1.0,2.0,False,1,,bachata-pop / reggaetón,hibrido,Bachata-pop con verso y base de reggaetón (Wisin); género discutible,P2_2016_2020,1,1.0,solo_hombres,0,España,Otro
+C018,bobo|j balvin,2016,6.0,Bobo,J Balvin,1.0,6.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0,1.0,solo_hombres,0,Colombia,Colombia
+C019,el perdedor|maluma,2016,7.0,El Perdedor,Maluma featuring Yandel,1.0,7.0,False,1,,reggaetón,urbano,Reggaetón lento (canción distinta a la de Enrique Iglesias),P2_2016_2020,1,1.0,solo_hombres,0,Colombia,Colombia
+C020,shaky shaky|daddy yankee,2016,8.0,Shaky Shaky,Daddy Yankee,1.0,8.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C021,encantadora|yandel,2016,9.0,Encantadora,Yandel,1.0,9.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C022,despacito|luis fonsi,2017,1.0,Despacito,Luis Fonsi & Daddy Yankee featuring Justin Bieber,2.0,1.0,True,1,,reggaetón-pop,urbano,Reggaetón-pop con Daddy Yankee,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C023,mi gente|j balvin,2017,2.0,Mi Gente,J Balvin & Willy William featuring Beyoncé,2.0,2.0,False,1,,reggaetón,urbano,Reggaetón (remezcla con Beyoncé: ver filtro de idioma),P2_2016_2020,1,1.0,mixto,1,Colombia,Colombia
+C024,chantaje|shakira,2017,3.0,Chantaje,Shakira featuring Maluma,1.0,3.0,False,1,,reggaetón,urbano,Reggaetón con Maluma,P2_2016_2020,1,1.0,mixto,1,Colombia,Colombia
+C025,felices los 4|maluma,2017,4.0,Felices los 4,Maluma,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0,1.0,solo_hombres,0,Colombia,Colombia
+C026,escapate conmigo|wisin,2017,5.0,Escápate Conmigo,Wisin featuring Ozuna,1.0,5.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C027,el amante|nicky jam,2017,6.0,El Amante,Nicky Jam,1.0,6.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C028,subeme la radio|enrique iglesias,2017,7.0,Súbeme la Radio,Enrique Iglesias featuring Descemer Bueno and Zion & Lennox,1.0,7.0,False,1,,reggaetón-pop,urbano,Reggaetón-pop con Zion & Lennox,P2_2016_2020,1,1.0,solo_hombres,0,España,Otro
+C029,reggaeton lento|cnco,2017,8.0,Reggaetón Lento (Bailemos),CNCO featuring Little Mix,1.0,8.0,False,1,,reggaetón,urbano,Reggaetón (remezcla con Little Mix: ver filtro de idioma),P2_2016_2020,1,1.0,mixto,1,Estados Unidos,Otro
+C030,ahora dice|chris jedi,2017,10.0,Ahora Dice,"Chris Jedi featuring Arcángel, J Balvin & Ozuna",1.0,10.0,False,1,,trap latino / reggaetón,urbano,Trap latino,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C031,dura|daddy yankee,2018,3.0,Dura,Daddy Yankee,1.0,3.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C032,x|nicky jam,2018,4.0,X,Nicky Jam and J Balvin,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C033,te bote|casper magico,2018,5.0,Te Boté,"Casper Mágico, Nio García, Darell, Nicky Jam, Ozuna, and Bad Bunny",2.0,5.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C034,el farsante|ozuna,2018,6.0,El Farsante,Ozuna and Romeo Santos,1.0,6.0,False,1,,reggaetón,urbano,Reggaetón (remezcla con Romeo Santos),P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C035,echame la culpa|luis fonsi,2018,7.0,Échame la Culpa,Luis Fonsi and Demi Lovato,1.0,7.0,False,1,,pop latino / reggaetón,hibrido,Pop latino con base suave de reggaetón; bilingüe,P2_2016_2020,1,1.0,mixto,1,Puerto Rico,Puerto Rico
+C036,la modelo|ozuna,2018,8.0,La Modelo,Ozuna and Cardi B,1.0,8.0,False,1,,reggaetón / trap,urbano,Reggaetón-trap,P2_2016_2020,1,1.0,mixto,1,Puerto Rico,Puerto Rico
+C037,sin pijama|becky g,2018,9.0,Sin Pijama,Becky G and Natti Natasha,1.0,9.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1,1.0,solo_mujeres,1,Estados Unidos,Otro
+C038,me niego|reik,2018,10.0,Me Niego,Reik featuring Ozuna and Wisin,1.0,10.0,False,1,,reggaetón-pop,urbano,Reggaetón-pop con Ozuna y Wisin,P2_2016_2020,1,1.0,solo_hombres,0,México,Otro
+C039,mia|bad bunny,2019,1.0,MIA,Bad Bunny featuring Drake,1.0,1.0,True,1,,reggaetón / trap,urbano,Reggaetón-trap,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C040,taki taki|dj snake,2019,2.0,Taki Taki,"DJ Snake featuring Selena Gomez, Ozuna and Cardi B",1.0,2.0,False,1,,reggaetón,urbano,Reggaetón (bilingüe: ver filtro de idioma),P2_2016_2020,1,1.0,mixto,1,Francia,Otro
+C041,con calma|daddy yankee,2019,3.0,Con Calma,Daddy Yankee & Katy Perry featuring Snow,1.0,3.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1,1.0,mixto,1,Puerto Rico,Puerto Rico
+C042,calma|pedro capo,2019,4.0,Calma,Pedro Capó and Farruko,1.0,4.0,False,1,,pop latino / reggaetón,hibrido,Pop tropical; la remezcla con Farruko añade base de reggaetón,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C043,ella quiere beber|anuel aa,2019,5.0,Ella Quiere Beber,"Anuel AA, and Romeo Santos",1.0,5.0,False,1,,trap latino,urbano,Trap latino,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C044,otro trago|sech,2019,6.0,Otro Trago,"Sech featuring Darell, Nicky Jam, Ozuna and Anuel AA",1.0,6.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1,1.0,solo_hombres,0,Panamá,Otro
+C045,callaita|bad bunny,2019,7.0,Callaíta,Bad Bunny featuring Tainy,1.0,7.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C046,soltera|lunay,2019,8.0,Soltera,Lunay featuring Daddy Yankee and Bad Bunny,1.0,8.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C047,no me conoce|jhay cortez,2019,9.0,No Me Conoce,Jhay Cortez featuring J Balvin and Bad Bunny,1.0,9.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C048,ritmo|black eyed peas,2020,1.0,Ritmo (Bad Boys for Life),The Black Eyed Peas and J Balvin,1.0,1.0,True,1,,hip hop / EDM / reggaetón,hibrido,Fusión EDM-hip hop con J Balvin; mayormente en inglés (ver filtro de idioma),P2_2016_2020,1,1.0,solo_hombres,0,Estados Unidos,Otro
+C049,tusa|karol g,2020,2.0,Tusa,Karol G and Nicki Minaj,1.0,2.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1,1.0,solo_mujeres,1,Colombia,Colombia
+C050,vete|bad bunny,2020,3.0,Vete,Bad Bunny,1.0,3.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C051,yo perreo sola|bad bunny,2020,4.0,Yo Perreo Sola,Bad Bunny,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C052,safaera|bad bunny,2020,5.0,Safaera,Bad Bunny,1.0,5.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C053,la dificil|bad bunny,2020,6.0,La Difícil,Bad Bunny,1.0,6.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C054,sigues con el|arcangel,2020,7.0,Sigues Con Él,Arcángel and Sech,1.0,7.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C055,mamacita|black eyed peas,2020,8.0,Mamacita,"Black Eyed Peas, Ozuna and J.Rey Soul",1.0,8.0,False,1,,pop / reggaetón,hibrido,Pop-reggaetón bilingüe con Ozuna (ver filtro de idioma),P2_2016_2020,1,1.0,mixto,1,Estados Unidos,Otro
+C056,si veo a tu mama|bad bunny,2020,9.0,Si Veo a Tu Mamá,Bad Bunny,1.0,9.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C057,la jeepeta|nio garcia,2020,10.0,La Jeepeta,"Nio Garcia, Anuel AA, Myke Towers, Brray and Juanka",1.0,10.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C058,dakiti|bad bunny,2021,1.0,Dakiti,Bad Bunny and Jhay Cortez,1.0,1.0,True,1,,reggaetón,urbano,Reggaetón electrónico,P3_2021_2025,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C059,hawai|maluma,2021,3.0,Hawái,Maluma and The Weeknd,1.0,3.0,False,1,,reggaetón,urbano,Reggaetón (remezcla con The Weeknd),P3_2021_2025,1,1.0,solo_hombres,0,Colombia,Colombia
+C060,la noche de anoche|bad bunny,2021,4.0,La Noche de Anoche,Bad Bunny and Rosalía,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1,1.0,mixto,1,Puerto Rico,Puerto Rico
+C061,yonaguni|bad bunny,2021,5.0,Yonaguni,Bad Bunny,1.0,5.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C062,pepas|farruko,2021,7.0,Pepas,Farruko,2.0,7.0,False,1,,EDM / guaracha,hibrido,EDM-guaracha de intérprete urbano; género principal discutible,P3_2021_2025,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C063,bichota|karol g,2021,8.0,Bichota,Karol G,1.0,8.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,0,1.0,solo_mujeres,1,Colombia,Colombia
+C064,fiel|los legendarios,2021,9.0,Fiel,"Los Legendarios, Wisin and Jhay Cortez",1.0,9.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C065,bandido|myke towers,2021,10.0,Bandido,Myke Towers and Juhn,1.0,10.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C066,me porto bonito|bad bunny,2022,1.0,Me Porto Bonito,Bad Bunny and Chencho Corleone,2.0,1.0,True,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C067,titi me pregunto|bad bunny,2022,2.0,Tití Me Preguntó,Bad Bunny,2.0,2.0,False,1,,reggaetón / dembow,urbano,Dembow-reggaetón,P3_2021_2025,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C068,moscow mule|bad bunny,2022,3.0,Moscow Mule,Bad Bunny,1.0,3.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C069,mamiii|becky g,2022,4.0,Mamiii,Becky G and Karol G,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1,1.0,solo_mujeres,1,Estados Unidos,Otro
+C070,provenza|karol g,2022,5.0,Provenza,Karol G,1.0,5.0,False,1,,reggaetón,urbano,Reggaetón suave,P3_2021_2025,0,1.0,solo_mujeres,1,Colombia,Colombia
+C071,efecto|bad bunny,2022,6.0,Efecto,Bad Bunny,1.0,6.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C072,party|bad bunny,2022,7.0,Party,Bad Bunny and Rauw Alejandro,1.0,7.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C073,la bebe|yng lvcas,2023,2.0,La Bebé,Yng Lvcas and Peso Pluma,1.0,2.0,False,1,,reggaetón,urbano,Reggaetón (remezcla con Peso Pluma),P3_2021_2025,1,1.0,solo_hombres,0,México,Otro
+C074,tqg|karol g,2023,4.0,TQG,Karol G and Shakira,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1,1.0,solo_mujeres,1,Colombia,Colombia
+C075,where she goes|bad bunny,2023,6.0,Where She Goes,Bad Bunny,1.0,6.0,False,1,,reggaetón / jersey club,urbano,Reggaetón con jersey club,P3_2021_2025,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C076,gata only|floyymenor,2024,1.0,Gata Only,FloyyMenor and Cris MJ,1.0,1.0,True,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1,1.0,solo_hombres,0,Chile,Otro
+C077,perro negro|bad bunny,2024,2.0,Perro Negro,Bad Bunny and Feid,1.0,2.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C078,monaco|bad bunny,2024,4.0,Monaco,Bad Bunny,1.0,4.0,False,1,,trap latino,urbano,Trap latino,P3_2021_2025,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C079,qlona|karol g,2024,5.0,Qlona,Karol G and Peso Pluma,1.0,5.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1,1.0,mixto,1,Colombia,Colombia
+C080,dtmf|bad bunny,2025,1.0,DTMF,Bad Bunny,1.0,1.0,True,1,,plena / pop urbano,hibrido,Fusión plena-pop de intérprete urbano; género principal discutible,P3_2021_2025,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C081,nuevayol|bad bunny,2025,3.0,Nuevayol,Bad Bunny,1.0,3.0,False,1,,dembow / tropical,hibrido,Dembow con muestras tropicales; género discutible,P3_2021_2025,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C082,eoo|bad bunny,2025,4.0,Eoo,Bad Bunny,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C083,que pasaria|rauw alejandro,2025,8.0,Que Pasaría…,Rauw Alejandro and Bad Bunny,1.0,8.0,False,1,,balada / R&B,hibrido,Balada R&B de intérpretes urbanos; género discutible,P3_2021_2025,1,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C084,voy a llevarte pa pr|bad bunny,2025,9.0,Voy A Llevarte Pa PR,Bad Bunny,1.0,9.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,0,1.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C085,no me digas que no|enrique iglesias,2011,,No Me Digas Que No,Enrique Iglesias featuring Wisin & Yandel,,,,2,2011-03-19,pop latino / reggaetón,hibrido,Electropop con verso urbano de Wisin & Yandel; género discutible,P1_2011_2015,1,1.9090909090909092,solo_hombres,0,España,Otro
+C086,tu olor|wisin,2011,,Tu Olor,Wisin & Yandel,,,,2,2011-10-08,reggaetón,urbano,Reggaetón romántico,P1_2011_2015,1,1.9090909090909092,solo_hombres,0,Puerto Rico,Puerto Rico
+C087,si te digo la verdad|gocho,2012,,Si Te Digo La Verdad,Gocho,,,,2,2012-06-30,reggaetón,urbano,Reggaetón,P1_2011_2015,0,1.9090909090909092,solo_hombres,0,Puerto Rico,Puerto Rico
+C088,hasta que salga el sol|don omar,2012,,Hasta Que Salga el Sol,Don Omar,,,,2,2012-07-21,reggaetón,urbano,Reggaetón electrónico,P1_2011_2015,0,1.9090909090909092,solo_hombres,0,Puerto Rico,Puerto Rico
+C089,bebe bonita|chino,2012,,Bebe Bonita,Chino & Nacho featuring Jay Sean,,,,2,2012-08-18,pop urbano,hibrido,Pop urbano venezolano; género discutible,P1_2011_2015,1,1.9090909090909092,solo_hombres,0,Venezuela,Otro
+C090,yo no soy un monstruo|elvis crespo,2012,,Yo No Soy Un Monstruo,Elvis Crespo featuring Ilegales,,,,2,2012-08-25,merengue / urbano,hibrido,Merengue con intérprete urbano; género discutible,P1_2011_2015,1,1.9090909090909092,solo_hombres,0,Puerto Rico,Puerto Rico
+C091,hable de ti|yandel,2013,,Hablé de Ti,Yandel,,,,2,2013-10-12,reggaetón,urbano,Reggaetón,P1_2011_2015,0,1.9090909090909092,solo_hombres,0,Puerto Rico,Puerto Rico
+C092,que viva la vida|wisin,2013,,Que Viva la Vida,Wisin,,,,2,2013-11-23,electro / urbano,hibrido,Electro-pop bailable de intérprete urbano; género discutible,P1_2011_2015,0,1.9090909090909092,solo_hombres,0,Puerto Rico,Puerto Rico
+C093,hasta abajo|yandel,2014,,Hasta Abajo,Yandel,,,,2,2014-02-22,reggaetón,urbano,Reggaetón,P1_2011_2015,0,1.9090909090909092,solo_hombres,0,Puerto Rico,Puerto Rico
+C094,nota de amor|wisin,2015,,Nota de Amor,Wisin and Carlos Vives featuring Daddy Yankee,,,,2,2015-04-25,vallenato / reggaetón,hibrido,Fusión vallenato-reggaetón; género discutible,P1_2011_2015,1,1.9090909090909092,solo_hombres,0,Puerto Rico,Puerto Rico
+C095,sunset|farruko,2015,,Sunset,Farruko featuring Shaggy and Nicky Jam,,,,2,2015-11-07,reggae / reggaetón,hibrido,Fusión reggae-reggaetón; género discutible,P1_2011_2015,1,1.9090909090909092,solo_hombres,0,Puerto Rico,Puerto Rico
+C096,vaiven|daddy yankee,2016,,Vaivén,Daddy Yankee,,,,2,2016-01-23,reggaetón,urbano,Reggaetón,P2_2016_2020,0,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C097,tan facil|cnco,2016,,Tan Fácil,CNCO,,,,2,2016-05-14,pop / reggaetón,hibrido,Pop latino con base de reggaetón; género discutible,P2_2016_2020,0,2.0,solo_hombres,0,Estados Unidos,Otro
+C098,ay mi dios|iamchino,2016,,Ay Mi Dios,IAmChino featuring Pitbull and Yandel,,,,2,2016-09-17,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,solo_hombres,0,Cuba,Otro
+C099,vente pa ca|ricky martin,2016,,Vente Pa Ca,Ricky Martin featuring Maluma,,,,2,2016-10-15,pop / reggaetón,hibrido,Pop latino con base de reggaetón; género discutible,P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C100,safari|j balvin,2016,,Safari,"J Balvin featuring Pharrell Williams, Bia and Sky",,,,2,2016-10-29,reggaetón,urbano,Reggaetón (bilingüe: ver filtro de idioma),P2_2016_2020,1,2.0,mixto,1,Colombia,Colombia
+C101,otra vez|zion,2016,,Otra Vez,Zion & Lennox featuring J Balvin,,,,2,2016-11-05,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C102,chillax|farruko,2016,,Chillax,Farruko featuring Ky-Mani Marley,,,,2,2016-11-26,reggae / urbano,hibrido,Reggae con intérprete urbano; género discutible,P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C103,nunca me olvides|yandel,2016,,Nunca Me Olvides,Yandel,,,,2,2016-12-10,reggaetón,urbano,Reggaetón,P2_2016_2020,0,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C104,perro fiel|shakira,2017,,Perro Fiel,Shakira featuring Nicky Jam,,,,2,2017-12-23,reggaetón,urbano,Reggaetón con Nicky Jam,P2_2016_2020,1,2.0,mixto,1,Colombia,Colombia
+C105,amor amor amor|jennifer lopez,2018,,"Amor, Amor, Amor",Jennifer Lopez featuring Wisin,,,,2,2018-02-03,reggaetón-pop,urbano,Reggaetón-pop con Wisin,P2_2016_2020,1,2.0,mixto,1,Estados Unidos,Otro
+C106,casate conmigo|silvestre dangond,2018,,Cásate Conmigo,Silvestre Dangond and Nicky Jam,,,,2,2018-02-24,vallenato / reggaetón,hibrido,Fusión vallenato-reggaetón; género discutible,P2_2016_2020,1,2.0,solo_hombres,0,Colombia,Colombia
+C107,todo comienza en la disco|wisin,2018,,Todo Comienza en la Disco,Wisin featuring Yandel and Daddy Yankee,,,,2,2018-03-10,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C108,fiebre|ricky martin,2018,,Fiebre,Ricky Martin featuring Wisin & Yandel,,,,2,2018-05-19,reggaetón-pop,urbano,Reggaetón-pop con Wisin & Yandel,P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C109,el anillo|jennifer lopez,2018,,El Anillo,Jennifer Lopez,,,,2,2018-07-14,reggaetón-pop,urbano,Reggaetón-pop,P2_2016_2020,0,2.0,solo_mujeres,1,Estados Unidos,Otro
+C110,quisiera alejarme|wisin,2018,,Quisiera Alejarme,Wisin featuring Ozuna,,,,2,2018-08-18,reggaetón,urbano,Reggaetón romántico,P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C111,mi cama|karol g,2018,,Mi Cama,Karol G and J Balvin featuring Nicky Jam,,,,2,2018-08-25,reggaetón,urbano,Reggaetón (remezcla con Nicky Jam),P2_2016_2020,1,2.0,mixto,1,Colombia,Colombia
+C112,bebe|6ix9ine,2018,,Bebe,6ix9ine featuring Anuel AA,,,,2,2018-09-15,trap latino,urbano,Trap latino,P2_2016_2020,1,2.0,solo_hombres,0,Estados Unidos,Otro
+C113,calypso|luis fonsi,2018,,Calypso,Luis Fonsi featuring Karol G,,,,2,2018-09-15,reggaetón-pop,urbano,Reggaetón-pop (remezcla con Karol G),P2_2016_2020,1,2.0,mixto,1,Puerto Rico,Puerto Rico
+C114,vaina loca|ozuna,2018,,Vaina Loca,Ozuna and Manuel Turizo,,,,2,2018-10-06,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C115,dinero|jennifer lopez,2018,,Dinero,Jennifer Lopez featuring DJ Khaled and Cardi B,,,,2,2018-10-13,trap / hip hop,urbano,Trap-hip hop bilingüe (ver filtro de idioma),P2_2016_2020,1,2.0,mixto,1,Estados Unidos,Otro
+C116,se vuelve loca|cnco,2018,,Se Vuelve Loca,CNCO,,,,2,2018-10-27,reggaetón-pop,urbano,Reggaetón-pop,P2_2016_2020,0,2.0,solo_hombres,0,Estados Unidos,Otro
+C117,mala mia|maluma,2018,,Mala Mía,Maluma,,,,2,2018-11-10,reggaetón,urbano,Reggaetón,P2_2016_2020,0,2.0,solo_hombres,0,Colombia,Colombia
+C118,hola|zion,2018,,Hola,Zion & Lennox,,,,2,2018-12-22,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C119,reggaeton en lo oscuro|wisin,2019,,Reggaetón en lo Oscuro,Wisin & Yandel,,,,2,2019-01-26,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C120,reggaeton|j balvin,2019,,Reggaetón,J Balvin,,,,2,2019-04-06,reggaetón,urbano,Reggaetón,P2_2016_2020,0,2.0,solo_hombres,0,Colombia,Colombia
+C121,hp|maluma,2019,,HP,Maluma,,,,2,2019-06-08,reggaetón,urbano,Reggaetón,P2_2016_2020,0,2.0,solo_hombres,0,Colombia,Colombia
+C122,te robare|nicky jam,2019,,Te Robaré,Nicky Jam and Ozuna,,,,2,2019-07-27,reggaetón,urbano,Reggaetón (canción distinta a la de Prince Royce),P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C123,que pretendes|j balvin,2019,,Qué Pretendes,J Balvin and Bad Bunny,,,,2,2019-08-10,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,solo_hombres,0,Colombia,Colombia
+C124,china|anuel aa,2019,,China,"Anuel AA, Daddy Yankee, Karol G, Ozuna and J Balvin",,,,2,2019-08-17,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,mixto,1,Puerto Rico,Puerto Rico
+C125,si me das tu amor|carlos vives,2019,,Si Me Das Tu Amor,Carlos Vives and Wisin,,,,2,2019-08-17,vallenato / reggaetón,hibrido,Fusión vallenato-reggaetón; género discutible,P2_2016_2020,1,2.0,solo_hombres,0,Colombia,Colombia
+C126,te sone de nuevo|ozuna,2019,,Te Soñé De Nuevo,Ozuna,,,,2,2019-09-07,reggaetón,urbano,Reggaetón,P2_2016_2020,0,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C127,no lo trates|pitbull,2019,,No Lo Trates,"Pitbull, Natti Natasha and Daddy Yankee",,,,2,2019-09-14,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,mixto,1,Estados Unidos,Otro
+C128,runaway|sebastian yatra,2019,,Runaway,"Sebastián Yatra, Daddy Yankee, and Natti Natasha featuring Jonas Brothers",,,,2,2019-10-05,reggaetón-pop,urbano,Reggaetón-pop bilingüe (ver filtro de idioma),P2_2016_2020,1,2.0,mixto,1,Colombia,Colombia
+C129,si supieras|daddy yankee,2019,,Si Supieras,Daddy Yankee and Wisin & Yandel,,,,2,2019-10-12,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C130,bonita|juanes,2019,,Bonita,Juanes and Sebastián Yatra,,,,2,2019-11-16,pop / reggaetón,hibrido,Pop latino con base de reggaetón; género discutible,P2_2016_2020,1,2.0,solo_hombres,0,Colombia,Colombia
+C131,yo x ti tu x mi|rosalia,2019,,"Yo x Ti, Tu x Mi",Rosalía and Ozuna,,,,2,2019-12-28,bachata / reggaetón,hibrido,Fusión bachata-reggaetón; género discutible,P2_2016_2020,1,2.0,mixto,1,España,Otro
+C132,que pena|maluma,2020,,Qué Pena,Maluma and J Balvin,,,,2,2020-02-29,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,solo_hombres,0,Colombia,Colombia
+C133,fantasia|ozuna,2020,,Fantasia,Ozuna,,,,2,2020-04-11,reggaetón,urbano,Reggaetón,P2_2016_2020,0,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C134,morado|j balvin,2020,,Morado,J Balvin,,,,2,2020-04-25,reggaetón,urbano,Reggaetón,P2_2016_2020,0,2.0,solo_hombres,0,Colombia,Colombia
+C135,keii|anuel aa,2020,,Keii,Anuel AA,,,,2,2020-05-02,reggaetón,urbano,Reggaetón,P2_2016_2020,0,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C136,definitivamente|daddy yankee,2020,,Definitivamente,Daddy Yankee & Sech,,,,2,2020-05-30,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C137,tbt|sebastian yatra,2020,,TBT,"Sebastián Yatra, Rauw Alejandro & Manuel Turizo",,,,2,2020-07-04,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,solo_hombres,0,Colombia,Colombia
+C138,rojo|j balvin,2020,,Rojo,J Balvin,,,,2,2020-07-18,reggaetón-pop,urbano,Reggaetón-pop,P2_2016_2020,0,2.0,solo_hombres,0,Colombia,Colombia
+C139,porfa|feid,2020,,Porfa,"Feid, J Balvin, Maluma, Nicky Jam, Sech, and Justin Quiles",,,,2,2020-08-29,reggaetón,urbano,Reggaetón (remezcla con varios intérpretes),P2_2016_2020,1,2.0,solo_hombres,0,Colombia,Colombia
+C140,agua|tainy,2020,,Agua,Tainy and J Balvin,,,,2,2020-09-05,reggaetón,urbano,Reggaetón,P2_2016_2020,1,2.0,solo_hombres,0,Puerto Rico,Puerto Rico
+C141,relacion|sech,2020,,Relación,"Sech, Daddy Yankee and J Balvin featuring Rosalía & Farruko",,,,2,2020-09-26,reggaetón,urbano,Reggaetón (remezcla con Rosalía y Farruko),P2_2016_2020,1,2.0,mixto,1,Panamá,Otro
+C142,feel the beat|black eyed peas,2020,,Feel the Beat,Black Eyed Peas and Maluma,,,,2,2020-11-14,pop / reggaetón,hibrido,Pop-reggaetón bilingüe con Maluma (ver filtro de idioma),P2_2016_2020,1,2.0,solo_hombres,0,Estados Unidos,Otro
+C143,pa ti|jennifer lopez,2020,,Pa Ti,Jennifer Lopez and Maluma,,,,2,2020-12-19,reggaetón-pop,urbano,Reggaetón-pop con Maluma,P2_2016_2020,1,2.0,mixto,1,Estados Unidos,Otro
+C144,mi nina|los legendarios,2021,,Mi Niña,"Los Legendarios, Wisin and Myke Towers",,,,2,2021-01-16,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C145,la nota|manuel turizo,2021,,La Nota,"Manuel Turizo, Myke Towers and Rauw Alejandro",,,,2,2021-01-23,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C146,chica ideal|sebastian yatra,2021,,Chica Ideal,Sebastián Yatra and Guaynaa,,,,2,2021-02-20,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C147,travesuras|nio garcia,2021,,Travesuras,Nio Garcia and Casper Magico,,,,2,2021-03-06,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C148,girl like me|black eyed peas,2021,,Girl Like Me,Black Eyed Peas and Shakira,,,,2,2021-03-13,pop / dancehall,hibrido,Pop-dancehall bilingüe (ver filtro de idioma),P3_2021_2025,1,2.019230769230769,mixto,1,Estados Unidos,Otro
+C149,baila conmigo|selena gomez,2021,,Baila Conmigo,Selena Gomez with Rauw Alejandro,,,,2,2021-03-27,reggaetón-pop,urbano,Reggaetón-pop,P3_2021_2025,1,2.019230769230769,mixto,1,Estados Unidos,Otro
+C150,tu veneno|j balvin,2021,,Tu Veneno,J Balvin,,,,2,2021-04-03,reggaetón,urbano,Reggaetón,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C151,location|karol g,2021,,Location,"Karol G, Anuel AA and J Balvin",,,,2,2021-04-10,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,mixto,1,Colombia,Colombia
+C152,fan de tus fotos|nicky jam,2021,,Fan de Tus Fotos,Nicky Jam and Romeo Santos,,,,2,2021-05-01,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C153,problema|daddy yankee,2021,,#Problema,Daddy Yankee,,,,2,2021-05-15,reggaetón,urbano,Reggaetón,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C154,vacio|luis fonsi,2021,,Vacio,Luis Fonsi & Rauw Alejandro,,,,2,2021-05-29,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C155,el makinon|karol g,2021,,El Makinón,Karol G & Mariah Angeliq,,,,2,2021-06-05,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_mujeres,1,Colombia,Colombia
+C156,tiempo|ozuna,2021,,Tiempo,Ozuna,,,,2,2021-06-26,reggaetón,urbano,Reggaetón,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C157,loco|justin quiles,2021,,Loco,"Justin Quiles, Chimbala, Zion & Lennox",,,,2,2021-08-28,reggaetón,urbano,Reggaetón (remezcla con Chimbala y Zion & Lennox),P3_2021_2025,1,2.019230769230769,solo_hombres,0,Estados Unidos,Otro
+C158,la funka|ozuna,2021,,La Funka,Ozuna,,,,2,2021-09-25,reggaetón,urbano,Reggaetón,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C159,sobrio|maluma,2021,,Sobrio,Maluma,,,,2,2021-11-06,pop urbano,hibrido,Pop urbano de intérprete urbano; género discutible,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C160,besame|luis fonsi,2021,,Bésame,Luis Fonsi and Myke Towers,,,,2,2021-11-27,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C161,una nota|j balvin,2022,,Una Nota,J Balvin and Sech,,,,2,2022-01-01,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C162,el incomprendido|farruko,2022,,El Incomprendido,"Farruko, Víctor Cárdenas and DJ Adoni",,,,2,2022-01-29,EDM / guaracha,hibrido,EDM-guaracha de intérprete urbano; género discutible,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C163,recordar|wisin,2022,,Recordar,Wisin & Yandel,,,,2,2022-03-19,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C164,ojos rojos|nicky jam,2022,,Ojos Rojos,Nicky Jam,,,,2,2022-04-23,reggaetón,urbano,Reggaetón,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C165,medallo|blessd,2022,,Medallo,"Blessd, Justin Quiles and Lenny Tavárez",,,,2,2022-05-21,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C166,desesperados|rauw alejandro,2022,,Desesperados,Rauw Alejandro and Chencho Corleone,,,,2,2022-07-02,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C167,soy yo|don omar,2022,,Soy Yo,"Don Omar, Wisin and Gente de Zona",,,,2,2022-07-16,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C168,mayor que usted|natti natasha,2022,,Mayor Que Usted,"Natti Natasha, Daddy Yankee and Wisin & Yandel",,,,2,2022-09-03,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,mixto,1,República Dominicana,Otro
+C169,baile con mi ex|becky g,2022,,Bailé Con Mi Ex,Becky G,,,,2,2022-09-10,reggaetón,urbano,Reggaetón,P3_2021_2025,0,2.019230769230769,solo_mujeres,1,Estados Unidos,Otro
+C170,quevedo bzrp music sessions vol 52|bizarrap,2022,,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap and Quevedo,,,,2,2022-11-05,electrónica / urbano,hibrido,Electrónica con voz urbana; género discutible,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Argentina,Otro
+C171,hey mor|ozuna,2023,,Hey Mor,Ozuna and Feid,,,,2,2023-03-04,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C172,nina bonita|feid,2023,,Niña Bonita,Feid and Sean Paul,,,,2,2023-08-19,reggaetón / dancehall,urbano,Reggaetón con dancehall,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C173,vagabundo|sebastian yatra,2023,,Vagabundo,"Sebastián Yatra, Manuel Turizo and Beéle",,,,2,2023-09-02,reggaetón-pop,urbano,Reggaetón-pop,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C174,tucu|ozuna,2023,,Tucu,Ozuna and Amarion,,,,2,2023-09-09,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C175,podemos repetirlo|don omar,2023,,Podemos Repetirlo,Don Omar and Chencho Corleone,,,,2,2023-09-16,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C176,lala|myke towers,2023,,Lala,Myke Towers,,,,2,2023-09-23,reggaetón,urbano,Reggaetón,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C177,gently|drake,2023,,Gently,Drake featuring Bad Bunny,,,,2,2023-10-21,reggaetón,urbano,Reggaetón bilingüe (ver filtro de idioma),P3_2021_2025,1,2.019230769230769,solo_hombres,0,Canadá,Otro
+C178,copa vacia|shakira,2023,,Copa Vacía,Shakira and Manuel Turizo,,,,2,2023-10-28,pop / reggaetón,hibrido,Pop latino con base de reggaetón; género discutible,P3_2021_2025,1,2.019230769230769,mixto,1,Colombia,Colombia
+C179,dientes|j balvin,2023,,Dientes,"J Balvin, Usher and DJ Khaled",,,,2,2023-11-04,reggaetón,urbano,Reggaetón bilingüe (ver filtro de idioma),P3_2021_2025,1,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C180,no es normal|venesti,2024,,No Es Normal,"Venesti, Nacho and Maffio",,,,2,2024-03-16,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C181,tqmqa|eladio carrion,2024,,TQMQA,Eladio Carrión,,,,2,2024-04-13,trap latino,urbano,Trap latino,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C182,la capi|myke towers,2024,,La Capi,Myke Towers,,,,2,2024-05-25,reggaetón,urbano,Reggaetón,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C183,amor|danny ocean,2024,,Amor,Danny Ocean,,,,2,2024-06-15,pop urbano,hibrido,Pop urbano con dancehall; género discutible,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Venezuela,Otro
+C184,doblexxo|j balvin,2025,,Doblexxó,J Balvin and Feid,,,,2,2025-03-15,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C185,hablame claro|yandel,2025,,Háblame Claro,Yandel and Feid,,,,2,2025-04-12,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C186,mas que tu|ozuna,2025,,Más Que Tú,Ozuna and Kapo,,,,2,2025-04-19,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C187,degenere|myke towers,2025,,Degenere,Myke Towers featuring Benny Blanco,,,,2,2025-05-03,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C188,soleao|myke towers,2025,,Soleao,Myke Towers and Quevedo,,,,2,2025-08-09,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C189,luna|kapo,2025,,Luna,Kapo and Wisin,,,,2,2025-09-06,reggaetón,urbano,Reggaetón (canción distinta a la de Feid),P3_2021_2025,1,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C190,bronceador|maluma,2025,,Bronceador,Maluma,,,,2,2025-10-04,reggaetón,urbano,Reggaetón,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Colombia,Colombia
+C191,noventa|dj snake,2025,,Noventa,DJ Snake and J Balvin,,,,2,2025-10-18,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Francia,Otro
+C192,sonriele|daddy yankee,2025,,Sonríele,Daddy Yankee,,,,2,2025-10-25,reggaetón,urbano,Reggaetón,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Puerto Rico,Puerto Rico
+C194,verano rosa|karol g,2025,,Verano Rosa,Karol G and Feid,,,,2,2025-11-29,reggaetón,urbano,Reggaetón,P3_2021_2025,1,2.019230769230769,mixto,1,Colombia,Colombia
+C195,que me quiera ma|marc anthony,2025,,Que Me Quiera Má,Marc Anthony and Wisin,,,,2,2025-12-13,salsa / reggaetón,hibrido,Fusión salsa-reggaetón; género discutible,P3_2021_2025,1,2.019230769230769,solo_hombres,0,Estados Unidos,Otro
+C196,se lo juro mor|feid,2025,,Se Lo Juro Mor,Feid,,,,2,2025-12-20,reggaetón,urbano,Reggaetón,P3_2021_2025,0,2.019230769230769,solo_hombres,0,Colombia,Colombia

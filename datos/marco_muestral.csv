@@ -1,0 +1,482 @@
+clave,anio_lista,posicion_primer_anio,titulo,artistas,anios_en_lista,mejor_posicion,fue_numero_uno_anual,estrato,fecha_primer_numero_uno,genero_musical,clase,justificacion,periodo,colaboracion
+corazon sin cara|prince royce,2011,1.0,Corazón Sin Cara,Prince Royce,1.0,1.0,True,1,,bachata,no_urbano,Bachata; sin base de reggaetón,P1_2011_2015,0
+taboo|don omar,2011,2.0,Taboo,Don Omar,1.0,2.0,False,1,,reggaetón,urbano,Reggaetón (fusión con lambada) de intérprete urbano,P1_2011_2015,0
+me encantaria|fidel rueda,2011,3.0,Me Encantaria,Fidel Rueda,1.0,3.0,False,1,,regional mexicano,no_urbano,Banda/regional mexicano,P1_2011_2015,0
+danza kuduro|don omar,2011,4.0,Danza Kuduro,Don Omar featuring Lucenzo,1.0,4.0,False,1,,kuduro / reggaetón,hibrido,Base de kuduro-house; intérprete urbano; género principal discutible,P1_2011_2015,1
+give me everything|pitbull,2011,5.0,Give Me Everything,"Pitbull featuring Ne-Yo, Afrojack, and Nayer",1.0,5.0,False,1,,dance-pop,no_urbano,Dance-pop en inglés,P1_2011_2015,1
+te amo y te amo|la adictiva banda san jose de mesillas,2011,6.0,Te Amo y Te Amo,La Adictiva Banda San Jose de Mesillas,1.0,6.0,False,1,,banda,no_urbano,Banda sinaloense,P1_2011_2015,0
+ni lo intentes|julion alvarez y su norteno banda,2011,7.0,Ni Lo Intentes,Julion Alvarez y Su Norteno Banda,1.0,7.0,False,1,,regional mexicano,no_urbano,Norteño-banda,P1_2011_2015,0
+you|romeo santos,2011,8.0,You,Romeo Santos,1.0,8.0,False,1,,bachata,no_urbano,Bachata,P1_2011_2015,0
+cuanto me cuesta|la arrolladora banda el limon,2011,9.0,Cuanto Me Cuesta,La Arrolladora Banda El Limón,1.0,9.0,False,1,,banda,no_urbano,Banda sinaloense,P1_2011_2015,0
+ven a bailar|jennifer lopez,2011,10.0,Ven a Bailar,Jennifer Lopez featuring Pitbull,1.0,10.0,False,1,,dance-pop,no_urbano,Dance-pop (versión en español de On the Floor),P1_2011_2015,1
+llamada de mi ex|la arrolladora banda el limon,2012,1.0,Llamada de Mi Ex,La Arrolladora Banda El Limón,1.0,1.0,True,1,,banda,no_urbano,Banda sinaloense,P1_2011_2015,0
+dutty love|don omar,2012,2.0,Dutty Love,Don Omar featuring Natti Natasha,1.0,2.0,False,1,,reggaetón,urbano,Reggaetón romántico,P1_2011_2015,1
+intentalo|3ball mty,2012,3.0,Inténtalo,3Ball MTY featuring El Bebeto and America Sierra,1.0,3.0,False,1,,tribal guarachero,no_urbano,Tribal guarachero (electrónica regional mexicana),P1_2011_2015,1
+bailando por el mundo|juan magan,2012,4.0,Bailando Por El Mundo,Juan Magan featuring Pitbull and El Cata,1.0,4.0,False,1,,electro latino,no_urbano,Electro latino / house; sin base de reggaetón,P1_2011_2015,1
+ai se eu te pego|michel telo,2012,5.0,Ai Se Eu Te Pego,Michel Teló,1.0,5.0,False,1,,sertanejo,no_urbano,Sertanejo en portugués,P1_2011_2015,0
+amor confuso|gerardo ortiz,2012,6.0,Amor Confuso,Gerardo Ortíz,1.0,6.0,False,1,,regional mexicano,no_urbano,Corrido / regional mexicano,P1_2011_2015,0
+lovumba|daddy yankee,2012,7.0,Lovumba,Daddy Yankee,1.0,7.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+un hombre normal|espinoza paz,2012,8.0,Un Hombre Normal,Espinoza Paz,1.0,8.0,False,1,,regional mexicano,no_urbano,Regional mexicano,P1_2011_2015,0
+el verdadero amor perdona|mana,2012,9.0,El Verdadero Amor Perdona,Maná featuring Prince Royce,1.0,9.0,False,1,,pop rock / bachata,no_urbano,Pop rock con versión bachata,P1_2011_2015,1
+las cosas pequenas|prince royce,2012,10.0,Las Cosas Pequeñas,Prince Royce,1.0,10.0,False,1,,bachata,no_urbano,Bachata,P1_2011_2015,0
+vivir mi vida|marc anthony,2013,1.0,Vivir Mi Vida,Marc Anthony,2.0,1.0,True,1,,salsa,no_urbano,Salsa,P1_2011_2015,0
+limbo|daddy yankee,2013,2.0,Limbo,Daddy Yankee,1.0,2.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+darte un beso|prince royce,2013,3.0,Darte un Beso,Prince Royce,2.0,3.0,False,1,,bachata,no_urbano,Bachata,P1_2011_2015,0
+zumba|don omar,2013,4.0,Zumba,Don Omar,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón / dembow,P1_2011_2015,0
+propuesta indecente|romeo santos,2013,5.0,Propuesta Indecente,Romeo Santos,3.0,2.0,False,1,,bachata,no_urbano,Bachata,P1_2011_2015,0
+algo me gusta de ti|wisin,2013,6.0,Algo Me Gusta de Ti,Wisin & Yandel featuring Chris Brown and T-Pain,1.0,6.0,False,1,,reggaetón,urbano,Reggaetón de Wisin & Yandel (versos en inglés: ver filtro de idioma),P1_2011_2015,1
+llevame contigo|romeo santos,2013,7.0,Llévame Contigo,Romeo Santos,1.0,7.0,False,1,,bachata,no_urbano,Bachata,P1_2011_2015,0
+la pregunta|j alvarez,2013,8.0,La Pregunta,J Alvarez,1.0,8.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+loco|enrique iglesias,2013,9.0,Loco,Enrique Iglesias featuring Romeo Santos,1.0,9.0,False,1,,bachata / pop,no_urbano,Bachata-pop,P1_2011_2015,1
+el ruido de tus zapatos|la arrolladora banda el limon,2013,10.0,El Ruido de Tus Zapatos,La Arrolladora Banda El Limón,1.0,10.0,False,1,,banda,no_urbano,Banda sinaloense,P1_2011_2015,0
+bailando|enrique iglesias,2014,1.0,Bailando,Enrique Iglesias featuring Descemer Bueno and Gente de Zona,2.0,1.0,True,1,,pop latino / son cubano,no_urbano,Pop latino con son cubano; sin base de reggaetón,P1_2011_2015,1
+odio|romeo santos,2014,3.0,Odio,Romeo Santos featuring Drake,1.0,3.0,False,1,,bachata,no_urbano,Bachata,P1_2011_2015,1
+el perdedor|enrique iglesias,2014,4.0,El Perdedor,Enrique Iglesias featuring Marco Antonio Solís,1.0,4.0,False,1,,bachata / pop,no_urbano,Bachata-pop,P1_2011_2015,1
+eres mia|romeo santos,2014,5.0,Eres Mía,Romeo Santos,1.0,5.0,False,1,,bachata,no_urbano,Bachata,P1_2011_2015,0
+6 am|j balvin,2014,7.0,6 AM,J Balvin featuring Farruko,1.0,7.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,1
+adrenalina|wisin,2014,9.0,Adrenalina,Wisin featuring Jennifer Lopez and Ricky Martin,1.0,9.0,False,1,,pop latino / reggaetón,hibrido,Pop latino bailable con intérprete urbano; género principal discutible,P1_2011_2015,1
+hermosa experiencia|banda sinaloense ms de sergio lizarraga,2014,10.0,Hermosa Experiencia,Banda Sinaloense MS de Sergio Lizárraga,1.0,10.0,False,1,,banda,no_urbano,Banda sinaloense,P1_2011_2015,0
+el perdon|nicky jam,2015,1.0,El Perdón,Nicky Jam featuring Enrique Iglesias,2.0,1.0,True,1,,reggaetón,urbano,Reggaetón-pop,P1_2011_2015,1
+hilito|romeo santos,2015,3.0,Hilito,Romeo Santos,1.0,3.0,False,1,,bachata,no_urbano,Bachata,P1_2011_2015,0
+ay vamos|j balvin,2015,4.0,Ay Vamos,J Balvin,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+ginza|j balvin,2015,5.0,Ginza,J Balvin,2.0,3.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+te metiste|ariel camacho y los plebes del rancho,2015,6.0,Te Metiste,Ariel Camacho y los Plebes del Rancho,1.0,6.0,False,1,,regional mexicano,no_urbano,Sierreño / regional mexicano,P1_2011_2015,0
+la gozadera|gente de zona,2015,7.0,La Gozadera,Gente de Zona featuring Marc Anthony,1.0,7.0,False,1,,cubatón / salsa,hibrido,Fusión cubatón-salsa; género principal discutible,P1_2011_2015,1
+fanatica sensual|plan b,2015,8.0,Fanatica Sensual,Plan B,1.0,8.0,False,1,,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+hablame de ti|banda sinaloense ms de sergio lizarraga,2015,9.0,Hablame de Ti,Banda Sinaloense MS de Sergio Lizarraga,1.0,9.0,False,1,,banda,no_urbano,Banda sinaloense,P1_2011_2015,0
+hasta el amanecer|nicky jam,2016,1.0,Hasta el Amanecer,Nicky Jam,1.0,1.0,True,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+duele el corazon|enrique iglesias,2016,2.0,Duele el Corazón,Enrique Iglesias featuring Wisin,1.0,2.0,False,1,,bachata-pop / reggaetón,hibrido,Bachata-pop con verso y base de reggaetón (Wisin); género discutible,P2_2016_2020,1
+la bicicleta|carlos vives,2016,4.0,La Bicicleta,Carlos Vives and Shakira,1.0,4.0,False,1,,vallenato-pop,no_urbano,Vallenato-pop,P2_2016_2020,1
+solo con verte|banda sinaloense ms de sergio lizarraga,2016,5.0,Solo Con Verte,Banda Sinaloense MS de Sergio Lizarraga,1.0,5.0,False,1,,banda,no_urbano,Banda sinaloense,P2_2016_2020,0
+bobo|j balvin,2016,6.0,Bobo,J Balvin,1.0,6.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+el perdedor|maluma,2016,7.0,El Perdedor,Maluma featuring Yandel,1.0,7.0,False,1,,reggaetón,urbano,Reggaetón lento (canción distinta a la de Enrique Iglesias),P2_2016_2020,1
+shaky shaky|daddy yankee,2016,8.0,Shaky Shaky,Daddy Yankee,1.0,8.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+encantadora|yandel,2016,9.0,Encantadora,Yandel,1.0,9.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+despacito|luis fonsi,2017,1.0,Despacito,Luis Fonsi & Daddy Yankee featuring Justin Bieber,2.0,1.0,True,1,,reggaetón-pop,urbano,Reggaetón-pop con Daddy Yankee,P2_2016_2020,1
+mi gente|j balvin,2017,2.0,Mi Gente,J Balvin & Willy William featuring Beyoncé,2.0,2.0,False,1,,reggaetón,urbano,Reggaetón (remezcla con Beyoncé: ver filtro de idioma),P2_2016_2020,1
+chantaje|shakira,2017,3.0,Chantaje,Shakira featuring Maluma,1.0,3.0,False,1,,reggaetón,urbano,Reggaetón con Maluma,P2_2016_2020,1
+felices los 4|maluma,2017,4.0,Felices los 4,Maluma,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+escapate conmigo|wisin,2017,5.0,Escápate Conmigo,Wisin featuring Ozuna,1.0,5.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+el amante|nicky jam,2017,6.0,El Amante,Nicky Jam,1.0,6.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+subeme la radio|enrique iglesias,2017,7.0,Súbeme la Radio,Enrique Iglesias featuring Descemer Bueno and Zion & Lennox,1.0,7.0,False,1,,reggaetón-pop,urbano,Reggaetón-pop con Zion & Lennox,P2_2016_2020,1
+reggaeton lento|cnco,2017,8.0,Reggaetón Lento (Bailemos),CNCO featuring Little Mix,1.0,8.0,False,1,,reggaetón,urbano,Reggaetón (remezcla con Little Mix: ver filtro de idioma),P2_2016_2020,1
+adios amor|christian nodal,2017,9.0,Adiós Amor,Christian Nodal,1.0,9.0,False,1,,mariachi / norteño,no_urbano,Regional mexicano,P2_2016_2020,0
+ahora dice|chris jedi,2017,10.0,Ahora Dice,"Chris Jedi featuring Arcángel, J Balvin & Ozuna",1.0,10.0,False,1,,trap latino / reggaetón,urbano,Trap latino,P2_2016_2020,1
+dura|daddy yankee,2018,3.0,Dura,Daddy Yankee,1.0,3.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+x|nicky jam,2018,4.0,X,Nicky Jam and J Balvin,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+te bote|casper magico,2018,5.0,Te Boté,"Casper Mágico, Nio García, Darell, Nicky Jam, Ozuna, and Bad Bunny",2.0,5.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+el farsante|ozuna,2018,6.0,El Farsante,Ozuna and Romeo Santos,1.0,6.0,False,1,,reggaetón,urbano,Reggaetón (remezcla con Romeo Santos),P2_2016_2020,1
+echame la culpa|luis fonsi,2018,7.0,Échame la Culpa,Luis Fonsi and Demi Lovato,1.0,7.0,False,1,,pop latino / reggaetón,hibrido,Pop latino con base suave de reggaetón; bilingüe,P2_2016_2020,1
+la modelo|ozuna,2018,8.0,La Modelo,Ozuna and Cardi B,1.0,8.0,False,1,,reggaetón / trap,urbano,Reggaetón-trap,P2_2016_2020,1
+sin pijama|becky g,2018,9.0,Sin Pijama,Becky G and Natti Natasha,1.0,9.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+me niego|reik,2018,10.0,Me Niego,Reik featuring Ozuna and Wisin,1.0,10.0,False,1,,reggaetón-pop,urbano,Reggaetón-pop con Ozuna y Wisin,P2_2016_2020,1
+mia|bad bunny,2019,1.0,MIA,Bad Bunny featuring Drake,1.0,1.0,True,1,,reggaetón / trap,urbano,Reggaetón-trap,P2_2016_2020,1
+taki taki|dj snake,2019,2.0,Taki Taki,"DJ Snake featuring Selena Gomez, Ozuna and Cardi B",1.0,2.0,False,1,,reggaetón,urbano,Reggaetón (bilingüe: ver filtro de idioma),P2_2016_2020,1
+con calma|daddy yankee,2019,3.0,Con Calma,Daddy Yankee & Katy Perry featuring Snow,1.0,3.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+calma|pedro capo,2019,4.0,Calma,Pedro Capó and Farruko,1.0,4.0,False,1,,pop latino / reggaetón,hibrido,Pop tropical; la remezcla con Farruko añade base de reggaetón,P2_2016_2020,1
+ella quiere beber|anuel aa,2019,5.0,Ella Quiere Beber,"Anuel AA, and Romeo Santos",1.0,5.0,False,1,,trap latino,urbano,Trap latino,P2_2016_2020,1
+otro trago|sech,2019,6.0,Otro Trago,"Sech featuring Darell, Nicky Jam, Ozuna and Anuel AA",1.0,6.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+callaita|bad bunny,2019,7.0,Callaíta,Bad Bunny featuring Tainy,1.0,7.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+soltera|lunay,2019,8.0,Soltera,Lunay featuring Daddy Yankee and Bad Bunny,1.0,8.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+no me conoce|jhay cortez,2019,9.0,No Me Conoce,Jhay Cortez featuring J Balvin and Bad Bunny,1.0,9.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+ritmo|black eyed peas,2020,1.0,Ritmo (Bad Boys for Life),The Black Eyed Peas and J Balvin,1.0,1.0,True,1,,hip hop / EDM / reggaetón,hibrido,Fusión EDM-hip hop con J Balvin; mayormente en inglés (ver filtro de idioma),P2_2016_2020,1
+tusa|karol g,2020,2.0,Tusa,Karol G and Nicki Minaj,1.0,2.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+vete|bad bunny,2020,3.0,Vete,Bad Bunny,1.0,3.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+yo perreo sola|bad bunny,2020,4.0,Yo Perreo Sola,Bad Bunny,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+safaera|bad bunny,2020,5.0,Safaera,Bad Bunny,1.0,5.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+la dificil|bad bunny,2020,6.0,La Difícil,Bad Bunny,1.0,6.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+sigues con el|arcangel,2020,7.0,Sigues Con Él,Arcángel and Sech,1.0,7.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+mamacita|black eyed peas,2020,8.0,Mamacita,"Black Eyed Peas, Ozuna and J.Rey Soul",1.0,8.0,False,1,,pop / reggaetón,hibrido,Pop-reggaetón bilingüe con Ozuna (ver filtro de idioma),P2_2016_2020,1
+si veo a tu mama|bad bunny,2020,9.0,Si Veo a Tu Mamá,Bad Bunny,1.0,9.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+la jeepeta|nio garcia,2020,10.0,La Jeepeta,"Nio Garcia, Anuel AA, Myke Towers, Brray and Juanka",1.0,10.0,False,1,,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+dakiti|bad bunny,2021,1.0,Dakiti,Bad Bunny and Jhay Cortez,1.0,1.0,True,1,,reggaetón,urbano,Reggaetón electrónico,P3_2021_2025,1
+telepatia|kali uchis,2021,2.0,Telepatía,Kali Uchis,1.0,2.0,False,1,,bossa nova / R&B,no_urbano,Bossa nova / R&B; sin base de reggaetón,P3_2021_2025,0
+hawai|maluma,2021,3.0,Hawái,Maluma and The Weeknd,1.0,3.0,False,1,,reggaetón,urbano,Reggaetón (remezcla con The Weeknd),P3_2021_2025,1
+la noche de anoche|bad bunny,2021,4.0,La Noche de Anoche,Bad Bunny and Rosalía,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+yonaguni|bad bunny,2021,5.0,Yonaguni,Bad Bunny,1.0,5.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+todo de ti|rauw alejandro,2021,6.0,Todo de Ti,Rauw Alejandro,1.0,6.0,False,1,,disco / pop,no_urbano,Disco-pop; sin base de reggaetón,P3_2021_2025,0
+pepas|farruko,2021,7.0,Pepas,Farruko,2.0,7.0,False,1,,EDM / guaracha,hibrido,EDM-guaracha de intérprete urbano; género principal discutible,P3_2021_2025,0
+bichota|karol g,2021,8.0,Bichota,Karol G,1.0,8.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+fiel|los legendarios,2021,9.0,Fiel,"Los Legendarios, Wisin and Jhay Cortez",1.0,9.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+bandido|myke towers,2021,10.0,Bandido,Myke Towers and Juhn,1.0,10.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+me porto bonito|bad bunny,2022,1.0,Me Porto Bonito,Bad Bunny and Chencho Corleone,2.0,1.0,True,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+titi me pregunto|bad bunny,2022,2.0,Tití Me Preguntó,Bad Bunny,2.0,2.0,False,1,,reggaetón / dembow,urbano,Dembow-reggaetón,P3_2021_2025,0
+moscow mule|bad bunny,2022,3.0,Moscow Mule,Bad Bunny,1.0,3.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+mamiii|becky g,2022,4.0,Mamiii,Becky G and Karol G,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+provenza|karol g,2022,5.0,Provenza,Karol G,1.0,5.0,False,1,,reggaetón,urbano,Reggaetón suave,P3_2021_2025,0
+efecto|bad bunny,2022,6.0,Efecto,Bad Bunny,1.0,6.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+party|bad bunny,2022,7.0,Party,Bad Bunny and Rauw Alejandro,1.0,7.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+despues de la playa|bad bunny,2022,8.0,Después de la Playa,Bad Bunny,1.0,8.0,False,1,,merengue / mambo,no_urbano,Merengue-mambo,P3_2021_2025,0
+ojitos lindos|bad bunny,2022,10.0,Ojitos Lindos,Bad Bunny and Bomba Estereo,1.0,10.0,False,1,,electropop,no_urbano,Electropop con Bomba Estéreo,P3_2021_2025,1
+ella baila sola|eslabon armado,2023,1.0,Ella Baila Sola,Eslabon Armado and Peso Pluma,1.0,1.0,True,1,,corridos,no_urbano,Corridos tumbados,P3_2021_2025,1
+la bebe|yng lvcas,2023,2.0,La Bebé,Yng Lvcas and Peso Pluma,1.0,2.0,False,1,,reggaetón,urbano,Reggaetón (remezcla con Peso Pluma),P3_2021_2025,1
+un x100to|grupo frontera,2023,3.0,Un x100to,Grupo Frontera and Bad Bunny,1.0,3.0,False,1,,norteño / cumbia,no_urbano,Norteño-cumbia,P3_2021_2025,1
+tqg|karol g,2023,4.0,TQG,Karol G and Shakira,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+bebe dame|grupo frontera,2023,5.0,Bebe Dame,Grupo Frontera and Fuerza Regida,1.0,5.0,False,1,,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,1
+where she goes|bad bunny,2023,6.0,Where She Goes,Bad Bunny,1.0,6.0,False,1,,reggaetón / jersey club,urbano,Reggaetón con jersey club,P3_2021_2025,0
+prc|peso pluma,2023,8.0,PRC,Peso Pluma and Natanael Cano,1.0,8.0,False,1,,corridos,no_urbano,Corridos tumbados,P3_2021_2025,1
+por las noches|peso pluma,2023,9.0,Por Las Noches,Peso Pluma,1.0,9.0,False,1,,corridos,no_urbano,Corrido / regional mexicano,P3_2021_2025,0
+gata only|floyymenor,2024,1.0,Gata Only,FloyyMenor and Cris MJ,1.0,1.0,True,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+perro negro|bad bunny,2024,2.0,Perro Negro,Bad Bunny and Feid,1.0,2.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+la diabla|xavi,2024,3.0,La Diabla,Xavi,1.0,3.0,False,1,,corridos,no_urbano,Corridos tumbados,P3_2021_2025,0
+monaco|bad bunny,2024,4.0,Monaco,Bad Bunny,1.0,4.0,False,1,,trap latino,urbano,Trap latino,P3_2021_2025,0
+qlona|karol g,2024,5.0,Qlona,Karol G and Peso Pluma,1.0,5.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+harley quinn|marshmello,2024,6.0,Harley Quinn,Marshmello and Fuerza Regida,1.0,6.0,False,1,,corridos / EDM,no_urbano,Corrido-EDM,P3_2021_2025,1
+si no quieres no|luis r conriquez,2024,7.0,Si No Quieres No,Luis R. Conriquez and Netón Vega,1.0,7.0,False,1,,corridos,no_urbano,Corridos,P3_2021_2025,1
+si antes te hubiera conocido|karol g,2024,8.0,Si Antes Te Hubiera Conocido,Karol G,1.0,8.0,False,1,,cumbia / tropical,no_urbano,Tropical-cumbia; sin base de reggaetón,P3_2021_2025,0
+tu name|fuerza regida,2024,9.0,Tú Name,Fuerza Regida,1.0,9.0,False,1,,corridos,no_urbano,Corridos,P3_2021_2025,0
+la victima|xavi,2024,10.0,La Víctima,Xavi,1.0,10.0,False,1,,corridos,no_urbano,Corridos,P3_2021_2025,0
+dtmf|bad bunny,2025,1.0,DTMF,Bad Bunny,1.0,1.0,True,1,,plena / pop urbano,hibrido,Fusión plena-pop de intérprete urbano; género principal discutible,P3_2021_2025,0
+baile inolvidable|bad bunny,2025,2.0,Baile Inolvidable,Bad Bunny,1.0,2.0,False,1,,salsa,no_urbano,Salsa,P3_2021_2025,0
+nuevayol|bad bunny,2025,3.0,Nuevayol,Bad Bunny,1.0,3.0,False,1,,dembow / tropical,hibrido,Dembow con muestras tropicales; género discutible,P3_2021_2025,0
+eoo|bad bunny,2025,4.0,Eoo,Bad Bunny,1.0,4.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+me jalo|fuerza regida,2025,5.0,Me Jalo,Fuerza Regida and Grupo Frontera,1.0,5.0,False,1,,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,1
+tu boda|oscar maydon,2025,6.0,Tu Boda,Óscar Maydon and Fuerza Regida,1.0,6.0,False,1,,corridos,no_urbano,Corridos,P3_2021_2025,1
+loco|neton vega,2025,7.0,Loco,Netón Vega,1.0,7.0,False,1,,corridos,no_urbano,Corridos (canción distinta a la de Enrique Iglesias),P3_2021_2025,0
+que pasaria|rauw alejandro,2025,8.0,Que Pasaría…,Rauw Alejandro and Bad Bunny,1.0,8.0,False,1,,balada / R&B,hibrido,Balada R&B de intérpretes urbanos; género discutible,P3_2021_2025,1
+voy a llevarte pa pr|bad bunny,2025,9.0,Voy A Llevarte Pa PR,Bad Bunny,1.0,9.0,False,1,,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+por esos ojos|fuerza regida,2025,10.0,Por Esos Ojos,Fuerza Regida,1.0,10.0,False,1,,corridos,no_urbano,Corridos,P3_2021_2025,0
+lo mejor de mi vida eres tu|ricky martin,2011,,Lo Mejor De Mi Vida Eres Tú,Ricky Martin featuring Natalia Jiménez,,,,2,2011-02-12,balada pop,no_urbano,Balada pop,P1_2011_2015,1
+no me digas que no|enrique iglesias,2011,,No Me Digas Que No,Enrique Iglesias featuring Wisin & Yandel,,,,2,2011-03-19,pop latino / reggaetón,hibrido,Electropop con verso urbano de Wisin & Yandel; género discutible,P1_2011_2015,1
+lluvia al corazon|mana,2011,,Lluvia al Corazón,Maná,,,,2,2011-04-02,pop rock,no_urbano,Pop rock,P1_2011_2015,0
+amor clandestino|mana,2011,,Amor Clandestino,Maná,,,,2,2011-08-27,pop rock,no_urbano,Pop rock,P1_2011_2015,0
+tu olor|wisin,2011,,Tu Olor,Wisin & Yandel,,,,2,2011-10-08,reggaetón,urbano,Reggaetón romántico,P1_2011_2015,1
+rain over me|pitbull,2011,,Rain Over Me,Pitbull featuring Marc Anthony,,,,2,2011-10-15,dance-pop,no_urbano,Dance-pop en inglés,P1_2011_2015,1
+el amor|ricardo arjona,2011,,El Amor,Ricardo Arjona,,,,2,2011-10-22,balada,no_urbano,Balada pop,P1_2011_2015,0
+promise|romeo santos,2011,,Promise,Romeo Santos featuring Usher,,,,2,2011-10-29,bachata,no_urbano,Bachata,P1_2011_2015,1
+hotel nacional|gloria estefan,2012,,Hotel Nacional,Gloria Estefan,,,,2,2012-01-14,dance-pop,no_urbano,Dance-pop,P1_2011_2015,0
+me gustas tanto|paulina rubio,2012,,Me Gustas Tanto,Paulina Rubio,,,,2,2012-02-11,pop,no_urbano,Pop latino,P1_2011_2015,0
+si tu me besas|victor manuelle,2012,,Si Tú Me Besas,Víctor Manuelle,,,,2,2012-02-18,salsa,no_urbano,Salsa,P1_2011_2015,0
+mi santa|romeo santos,2012,,Mi Santa,Romeo Santos featuring Tomatito,,,,2,2012-03-03,bachata,no_urbano,Bachata,P1_2011_2015,1
+la senal|juanes,2012,,La Señal,Juanes,,,,2,2012-05-05,pop rock,no_urbano,Pop rock,P1_2011_2015,0
+si te digo la verdad|gocho,2012,,Si Te Digo La Verdad,Gocho,,,,2,2012-06-30,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+follow the leader|wisin,2012,,Follow the Leader,Wisin & Yandel featuring Jennifer Lopez,,,,2,2012-07-07,electro / reggaetón,hibrido,Electro-reggaetón con Jennifer Lopez; género discutible,P1_2011_2015,1
+hasta que salga el sol|don omar,2012,,Hasta Que Salga el Sol,Don Omar,,,,2,2012-07-21,reggaetón,urbano,Reggaetón electrónico,P1_2011_2015,0
+la diabla|romeo santos,2012,,La Diabla,Romeo Santos,,,,2,2012-08-04,bachata,no_urbano,Bachata,P1_2011_2015,0
+bebe bonita|chino,2012,,Bebe Bonita,Chino & Nacho featuring Jay Sean,,,,2,2012-08-18,pop urbano,hibrido,Pop urbano venezolano; género discutible,P1_2011_2015,1
+yo no soy un monstruo|elvis crespo,2012,,Yo No Soy Un Monstruo,Elvis Crespo featuring Ilegales,,,,2,2012-08-25,merengue / urbano,hibrido,Merengue con intérprete urbano; género discutible,P1_2011_2015,1
+dame la ola|tito el bambino,2012,,Dame La Ola,Tito El Bambino,,,,2,2012-09-01,tropical / reggaetón,hibrido,Fusión tropical-reggaetón; género discutible,P1_2011_2015,0
+no me compares|alejandro sanz,2012,,No Me Compares,Alejandro Sanz,,,,2,2012-09-08,pop,no_urbano,Pop,P1_2011_2015,0
+hasta que te conoci|mana,2012,,Hasta Que Te Conocí,Maná,,,,2,2012-09-15,pop rock,no_urbano,Pop rock,P1_2011_2015,0
+te quiero|ricardo arjona,2012,,Te Quiero,Ricardo Arjona,,,,2,2012-09-22,balada,no_urbano,Balada pop,P1_2011_2015,0
+volvi a nacer|carlos vives,2012,,Volví a Nacer,Carlos Vives,,,,2,2012-10-13,vallenato-pop,no_urbano,Vallenato-pop,P1_2011_2015,0
+will u still love me tomorrow|leslie grace,2012,,Will U Still Love Me Tomorrow,Leslie Grace,,,,2,2012-10-27,bachata,no_urbano,Bachata,P1_2011_2015,0
+diosa de los corazones|arcangel,2012,,Diosa de los Corazónes,"Arcángel, Zion & Lennox, Lobo, RKM & Ken-Y",,,,2,2012-11-03,reggaetón,urbano,Reggaetón,P1_2011_2015,1
+solo vine a despedirme|gerardo ortiz,2012,,Solo Viné a Despedirme,Gerardo Ortíz,,,,2,2012-11-10,regional mexicano,no_urbano,Corrido / regional mexicano,P1_2011_2015,0
+incondicional|prince royce,2012,,Incondicional,Prince Royce,,,,2,2012-11-17,bachata,no_urbano,Bachata,P1_2011_2015,0
+balada|gusttavo lima,2012,,Balada (Tchê Tcherere Tchê Tchê),Gusttavo Lima,,,,2,2012-11-24,sertanejo,no_urbano,Sertanejo en portugués,P1_2011_2015,0
+finally found you|enrique iglesias,2012,,Finally Found You,Enrique Iglesias featuring Sammy Adams,,,,2,2012-12-01,dance-pop,no_urbano,Dance-pop en inglés,P1_2011_2015,1
+amor real|gocho,2012,,Amor Real,Gocho featuring Yandel and Wayne Wonder,,,,2,2012-12-29,reggaetón,urbano,Reggaetón,P1_2011_2015,1
+por que les mientes|tito el bambino,2013,,¿Por Qué Les Mientes?,Tito El Bambino and Marc Anthony,,,,2,2013-01-05,salsa,no_urbano,Salsa,P1_2011_2015,1
+como le gusta a tu cuerpo|carlos vives,2013,,Como Le Gusta a Tu Cuerpo,Carlos Vives featuring Michel Teló,,,,2,2013-02-16,vallenato-pop,no_urbano,Vallenato-pop,P1_2011_2015,1
+te me vas|prince royce,2013,,Te Me Vas,Prince Royce,,,,2,2013-04-13,bachata,no_urbano,Bachata,P1_2011_2015,0
+te perdiste mi amor|thalia,2013,,Te Perdiste Mi Amor,Thalía featuring Prince Royce,,,,2,2013-05-04,bachata,no_urbano,Bachata-pop,P1_2011_2015,1
+te amo|intocable,2013,,Te Amo (Para Siempre),Intocable,,,,2,2013-05-25,norteño,no_urbano,Norteño,P1_2011_2015,0
+bailar contigo|carlos vives,2013,,Bailar Contigo,Carlos Vives,,,,2,2013-09-28,vallenato-pop,no_urbano,Vallenato-pop,P1_2011_2015,0
+hable de ti|yandel,2013,,Hablé de Ti,Yandel,,,,2,2013-10-12,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+carnaval|tito el bambino,2013,,Carnaval,Tito el Bambino,,,,2,2013-11-02,tropical,no_urbano,Tropical-pop; sin base de reggaetón,P1_2011_2015,0
+que viva la vida|wisin,2013,,Que Viva la Vida,Wisin,,,,2,2013-11-23,electro / urbano,hibrido,Electro-pop bailable de intérprete urbano; género discutible,P1_2011_2015,0
+come with me|ricky martin,2013,,Come with Me,Ricky Martin,,,,2,2013-12-14,dance-pop,no_urbano,Dance-pop,P1_2011_2015,0
+put it in a kiss|katherine alexander,2014,,Put It in a Kiss,Katherine Alexander,,,,2,2014-01-18,pop,no_urbano,Pop,P1_2011_2015,0
+la nueva y la ex|daddy yankee,2014,,La Nueva y La Ex,Daddy Yankee,,,,2,2014-02-08,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+hasta abajo|yandel,2014,,Hasta Abajo,Yandel,,,,2,2014-02-22,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+la luz|juanes,2014,,La Luz,Juanes,,,,2,2014-03-15,pop,no_urbano,Pop,P1_2011_2015,0
+el mar de sus ojos|carlos vives,2014,,El Mar de Sus Ojos,Carlos Vives featuring ChocQuibTown,,,,2,2014-03-22,vallenato-pop,no_urbano,Vallenato-pop,P1_2011_2015,1
+te robare|prince royce,2014,,Te Robaré,Prince Royce,,,,2,2014-04-12,bachata,no_urbano,Bachata (canción distinta a la de Nicky Jam y Ozuna),P1_2011_2015,0
+apnea|ricardo arjona,2014,,Apnea,Ricardo Arjona,,,,2,2014-05-17,balada,no_urbano,Balada pop,P1_2011_2015,0
+cuando nos volvamos a encontrar|carlos vives,2014,,Cuando Nos Volvamos a Encontrar,Carlos Vives featuring Marc Anthony,,,,2,2014-10-25,vallenato / salsa,no_urbano,Vallenato-salsa,P1_2011_2015,1
+tus besos|juan luis guerra,2014,,Tus Besos,Juan Luis Guerra & 4.40,,,,2,2014-11-01,bachata,no_urbano,Bachata,P1_2011_2015,1
+yo tambien|romeo santos,2014,,Yo También,Romeo Santos featuring Marc Anthony,,,,2,2014-12-27,bachata,no_urbano,Bachata,P1_2011_2015,1
+que suenen los tambores|victor manuelle,2015,,Que Suenen los Tambores,Víctor Manuelle,,,,2,2015-01-03,salsa,no_urbano,Salsa,P1_2011_2015,0
+eres una nina|gerardo ortiz,2015,,Eres una Niña,Gerardo Ortíz,,,,2,2015-01-17,regional mexicano,no_urbano,Regional mexicano,P1_2011_2015,0
+soledad|don omar,2015,,Soledad,Don Omar,,,,2,2015-02-14,bachata,no_urbano,Bachata de intérprete urbano; sin base de reggaetón,P1_2011_2015,0
+levantando polvadera|voz de mando,2015,,Levantando Polvadera,Voz de Mando,,,,2,2015-02-21,regional mexicano,no_urbano,Regional mexicano,P1_2011_2015,0
+mi verdad|mana,2015,,Mi Verdad,Maná featuring Shakira,,,,2,2015-02-28,pop rock,no_urbano,Pop rock,P1_2011_2015,1
+el karma|ariel camacho y los plebes del rancho,2015,,El Karma,Ariel Camacho y Los Plebes del Rancho,,,,2,2015-03-14,regional mexicano,no_urbano,Sierreño / regional mexicano,P1_2011_2015,0
+disparo al corazon|ricky martin,2015,,Disparo al Corazón,Ricky Martin,,,,2,2015-03-14,balada,no_urbano,Balada pop,P1_2011_2015,0
+piensas|pitbull,2015,,Piensas (Dile la Verdad),Pitbull featuring Gente de Zona,,,,2,2015-03-21,cubatón / pop,hibrido,Fusión cubatón-pop; género discutible,P1_2011_2015,1
+juntos|juanes,2015,,Juntos (Together),Juanes,,,,2,2015-04-18,pop,no_urbano,Pop,P1_2011_2015,0
+nota de amor|wisin,2015,,Nota de Amor,Wisin and Carlos Vives featuring Daddy Yankee,,,,2,2015-04-25,vallenato / reggaetón,hibrido,Fusión vallenato-reggaetón; género discutible,P1_2011_2015,1
+sigueme y te sigo|daddy yankee,2015,,Sígueme y Te Sigo,Daddy Yankee,,,,2,2015-05-23,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+calentura|yandel,2015,,Calentura,Yandel,,,,2,2015-08-15,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+la mordidita|ricky martin,2015,,La Mordidita,Ricky Martin featuring Yotuel,,,,2,2015-09-05,pop tropical,no_urbano,Pop tropical,P1_2011_2015,1
+si lo hacemos bien|wisin,2015,,Si lo Hacemos Bien,Wisin,,,,2,2015-09-12,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+sunset|farruko,2015,,Sunset,Farruko featuring Shaggy and Nicky Jam,,,,2,2015-11-07,reggae / reggaetón,hibrido,Fusión reggae-reggaetón; género discutible,P1_2011_2015,1
+borro cassette|maluma,2015,,Borró Cassette,Maluma,,,,2,2015-11-21,reggaetón,urbano,Reggaetón,P1_2011_2015,0
+despues de ti quien|la adictiva banda san jose de mesillas,2015,,Después de Ti Quién,La Adictiva Banda San Jose de Mesillas,,,,2,2015-12-05,banda,no_urbano,Banda sinaloense,P1_2011_2015,0
+el mismo sol|alvaro soler,2015,,El Mismo Sol,Álvaro Soler featuring Jennifer Lopez,,,,2,2015-12-19,pop,no_urbano,Pop,P1_2011_2015,1
+vaiven|daddy yankee,2016,,Vaivén,Daddy Yankee,,,,2,2016-01-23,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+culpa al corazon|prince royce,2016,,Culpa al Corazón,Prince Royce,,,,2,2016-02-20,bachata,no_urbano,Bachata,P2_2016_2020,0
+las cosas de la vida|carlos vives,2016,,Las Cosas de la Vida,Carlos Vives,,,,2,2016-03-05,vallenato-pop,no_urbano,Vallenato-pop,P2_2016_2020,0
+obsesionado|farruko,2016,,Obsesionado,Farruko,,,,2,2016-04-23,reggaetón,urbano,Reggaetón romántico,P2_2016_2020,0
+tan facil|cnco,2016,,Tan Fácil,CNCO,,,,2,2016-05-14,pop / reggaetón,hibrido,Pop latino con base de reggaetón; género discutible,P2_2016_2020,0
+ay mi dios|iamchino,2016,,Ay Mi Dios,IAmChino featuring Pitbull and Yandel,,,,2,2016-09-17,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+la carretera|prince royce,2016,,La Carretera,Prince Royce,,,,2,2016-09-24,bachata,no_urbano,Bachata,P2_2016_2020,0
+de pies a cabeza|mana,2016,,De Pies a Cabeza,Maná and Nicky Jam,,,,2,2016-10-01,pop rock / reggaetón,hibrido,Pop rock con base de reggaetón y Nicky Jam; género discutible,P2_2016_2020,1
+vente pa ca|ricky martin,2016,,Vente Pa Ca,Ricky Martin featuring Maluma,,,,2,2016-10-15,pop / reggaetón,hibrido,Pop latino con base de reggaetón; género discutible,P2_2016_2020,1
+safari|j balvin,2016,,Safari,"J Balvin featuring Pharrell Williams, Bia and Sky",,,,2,2016-10-29,reggaetón,urbano,Reggaetón (bilingüe: ver filtro de idioma),P2_2016_2020,1
+otra vez|zion,2016,,Otra Vez,Zion & Lennox featuring J Balvin,,,,2,2016-11-05,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+fuego|juanes,2016,,Fuego,Juanes,,,,2,2016-11-12,pop,no_urbano,Pop,P2_2016_2020,0
+chillax|farruko,2016,,Chillax,Farruko featuring Ky-Mani Marley,,,,2,2016-11-26,reggae / urbano,hibrido,Reggae con intérprete urbano; género discutible,P2_2016_2020,1
+nunca me olvides|yandel,2016,,Nunca Me Olvides,Yandel,,,,2,2016-12-10,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+vacaciones|wisin,2016,,Vacaciones,Wisin,,,,2,2016-12-17,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+te quiero pa mi|don omar,2016,,Te Quiero Pa Mi,Don Omar and Zion & Lennox,,,,2,2016-12-24,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+sin contrato|maluma,2017,,Sin Contrato,Maluma featuring Don Omar and Wisin,,,,2,2017-02-11,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+heroe favorito|romeo santos,2017,,Héroe Favorito,Romeo Santos,,,,2,2017-03-04,bachata,no_urbano,Bachata,P2_2016_2020,0
+imitadora|romeo santos,2017,,Imitadora,Romeo Santos,,,,2,2017-07-29,bachata,no_urbano,Bachata,P2_2016_2020,0
+como antes|yandel,2017,,Como Antes,Yandel featuring Wisin,,,,2,2017-10-07,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+perro fiel|shakira,2017,,Perro Fiel,Shakira featuring Nicky Jam,,,,2,2017-12-23,reggaetón,urbano,Reggaetón con Nicky Jam,P2_2016_2020,1
+robarte un beso|carlos vives,2018,,Robarte un Beso,Carlos Vives and Sebastián Yatra,,,,2,2018-01-13,vallenato-pop,no_urbano,Vallenato-pop,P2_2016_2020,1
+corazon|maluma,2018,,Corazón,Maluma featuring Nego do Borel,,,,2,2018-01-27,reggaetón,urbano,Reggaetón con funk carioca,P2_2016_2020,1
+amor amor amor|jennifer lopez,2018,,"Amor, Amor, Amor",Jennifer Lopez featuring Wisin,,,,2,2018-02-03,reggaetón-pop,urbano,Reggaetón-pop con Wisin,P2_2016_2020,1
+mayores|becky g,2018,,Mayores,Becky G featuring Bad Bunny,,,,2,2018-02-17,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+casate conmigo|silvestre dangond,2018,,Cásate Conmigo,Silvestre Dangond and Nicky Jam,,,,2,2018-02-24,vallenato / reggaetón,hibrido,Fusión vallenato-reggaetón; género discutible,P2_2016_2020,1
+todo comienza en la disco|wisin,2018,,Todo Comienza en la Disco,Wisin featuring Yandel and Daddy Yankee,,,,2,2018-03-10,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+machika|j balvin,2018,,Machika,"J Balvin, Jeon, and Anitta",,,,2,2018-03-24,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+el bano|enrique iglesias,2018,,El Baño,Enrique Iglesias featuring Bad Bunny,,,,2,2018-03-31,reggaetón-pop,urbano,Reggaetón-pop con Bad Bunny,P2_2016_2020,1
+dame tu cosita|el chombo,2018,,Dame Tu Cosita,El Chombo featuring Cutty Ranks,,,,2,2018-05-12,dancehall / EDM,hibrido,Dancehall electrónico; género discutible,P2_2016_2020,1
+fiebre|ricky martin,2018,,Fiebre,Ricky Martin featuring Wisin & Yandel,,,,2,2018-05-19,reggaetón-pop,urbano,Reggaetón-pop con Wisin & Yandel,P2_2016_2020,1
+el prestamo|maluma,2018,,El Préstamo,Maluma,,,,2,2018-06-02,pop urbano / bachata,hibrido,Pop urbano con guitarra de bachata; género discutible,P2_2016_2020,0
+se acabo el amor|abraham mateo,2018,,Se Acabó el Amor,"Abraham Mateo, Yandel, and Jennifer Lopez",,,,2,2018-06-16,reggaetón-pop,urbano,Reggaetón-pop,P2_2016_2020,1
+la player|zion,2018,,La Player (Bandolera),Zion & Lennox,,,,2,2018-06-30,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+ambiente|j balvin,2018,,Ambiente,J Balvin,,,,2,2018-07-07,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+el anillo|jennifer lopez,2018,,El Anillo,Jennifer Lopez,,,,2,2018-07-14,reggaetón-pop,urbano,Reggaetón-pop,P2_2016_2020,0
+sobredosis|romeo santos,2018,,Sobredosis,Romeo Santos featuring Ozuna,,,,2,2018-07-21,bachata,no_urbano,Bachata con Ozuna; sin base de reggaetón,P2_2016_2020,1
+unica|ozuna,2018,,Unica,Ozuna,,,,2,2018-07-28,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+quisiera alejarme|wisin,2018,,Quisiera Alejarme,Wisin featuring Ozuna,,,,2,2018-08-18,reggaetón,urbano,Reggaetón romántico,P2_2016_2020,1
+mi cama|karol g,2018,,Mi Cama,Karol G and J Balvin featuring Nicky Jam,,,,2,2018-08-25,reggaetón,urbano,Reggaetón (remezcla con Nicky Jam),P2_2016_2020,1
+el clavo|prince royce,2018,,El Clavo,Prince Royce featuring Maluma,,,,2,2018-09-01,bachata / reggaetón,hibrido,Fusión bachata-reggaetón; género discutible,P2_2016_2020,1
+calypso|luis fonsi,2018,,Calypso,Luis Fonsi featuring Karol G,,,,2,2018-09-15,reggaetón-pop,urbano,Reggaetón-pop (remezcla con Karol G),P2_2016_2020,1
+bebe|6ix9ine,2018,,Bebe,6ix9ine featuring Anuel AA,,,,2,2018-09-15,trap latino,urbano,Trap latino,P2_2016_2020,1
+hoy tengo tiempo|carlos vives,2018,,Hoy Tengo Tiempo (Pinta Sensual),Carlos Vives,,,,2,2018-09-22,vallenato-pop,no_urbano,Vallenato-pop,P2_2016_2020,0
+clandestino|shakira,2018,,Clandestino,Shakira and Maluma,,,,2,2018-09-29,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+vaina loca|ozuna,2018,,Vaina Loca,Ozuna and Manuel Turizo,,,,2,2018-10-06,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+dinero|jennifer lopez,2018,,Dinero,Jennifer Lopez featuring DJ Khaled and Cardi B,,,,2,2018-10-13,trap / hip hop,urbano,Trap-hip hop bilingüe (ver filtro de idioma),P2_2016_2020,1
+se vuelve loca|cnco,2018,,Se Vuelve Loca,CNCO,,,,2,2018-10-27,reggaetón-pop,urbano,Reggaetón-pop,P2_2016_2020,0
+justicia|silvestre dangond,2018,,Justicia,Silvestre Dangond and Natti Natasha,,,,2,2018-11-03,vallenato / reggaetón,hibrido,Fusión vallenato-reggaetón; género discutible,P2_2016_2020,1
+mala mia|maluma,2018,,Mala Mía,Maluma,,,,2,2018-11-10,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+zum|daddy yankee,2018,,Zum,"Daddy Yankee, RKM & Ken-Y, Arcángel",,,,2,2018-11-17,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+no es justo|j balvin,2018,,No Es Justo,J Balvin and Zion & Lennox,,,,2,2018-11-24,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+centavito|romeo santos,2018,,Centavito,Romeo Santos,,,,2,2018-12-01,bachata,no_urbano,Bachata,P2_2016_2020,0
+ya no tiene novio|sebastian yatra,2018,,Ya No Tiene Novio,Sebastián Yatra and Mau y Ricky,,,,2,2018-12-15,reggaetón-pop,urbano,Reggaetón-pop,P2_2016_2020,1
+hola|zion,2018,,Hola,Zion & Lennox,,,,2,2018-12-22,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+reggaeton en lo oscuro|wisin,2019,,Reggaetón en lo Oscuro,Wisin & Yandel,,,,2,2019-01-26,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+imposible|luis fonsi,2019,,Imposible,Luis Fonsi and Ozuna,,,,2,2019-02-23,reggaetón-pop,urbano,Reggaetón-pop con Ozuna,P2_2016_2020,1
+creeme|karol g,2019,,Créeme,Karol G and Maluma,,,,2,2019-03-02,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+sola|manuel turizo,2019,,Sola,Manuel Turizo,,,,2,2019-03-09,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+reggaeton|j balvin,2019,,Reggaetón,J Balvin,,,,2,2019-04-06,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+un ano|sebastian yatra,2019,,Un Año,Sebastián Yatra and Reik,,,,2,2019-04-20,pop / vallenato,no_urbano,Pop con acordeón; sin base de reggaetón,P2_2016_2020,1
+secreto|anuel aa,2019,,Secreto,Anuel AA and Karol G,,,,2,2019-05-04,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+baila baila baila|ozuna,2019,,Baila Baila Baila,"Ozuna, Daddy Yankee, J Balvin, Farruko and Anuel AA",,,,2,2019-05-11,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+me gusta|natti natasha,2019,,Me Gusta,Natti Natasha,,,,2,2019-05-18,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+inmortal|aventura,2019,,Inmortal,Aventura,,,,2,2019-06-01,bachata,no_urbano,Bachata,P2_2016_2020,0
+hp|maluma,2019,,HP,Maluma,,,,2,2019-06-08,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+aullando|wisin,2019,,Aullando,Wisin & Yandel and Romeo Santos,,,,2,2019-07-06,bachata / reggaetón,hibrido,Fusión bachata-reggaetón; género discutible,P2_2016_2020,1
+te robare|nicky jam,2019,,Te Robaré,Nicky Jam and Ozuna,,,,2,2019-07-27,reggaetón,urbano,Reggaetón (canción distinta a la de Prince Royce),P2_2016_2020,1
+que pretendes|j balvin,2019,,Qué Pretendes,J Balvin and Bad Bunny,,,,2,2019-08-10,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+china|anuel aa,2019,,China,"Anuel AA, Daddy Yankee, Karol G, Ozuna and J Balvin",,,,2,2019-08-17,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+si me das tu amor|carlos vives,2019,,Si Me Das Tu Amor,Carlos Vives and Wisin,,,,2,2019-08-17,vallenato / reggaetón,hibrido,Fusión vallenato-reggaetón; género discutible,P2_2016_2020,1
+te sone de nuevo|ozuna,2019,,Te Soñé De Nuevo,Ozuna,,,,2,2019-09-07,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+no lo trates|pitbull,2019,,No Lo Trates,"Pitbull, Natti Natasha and Daddy Yankee",,,,2,2019-09-14,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+runaway|sebastian yatra,2019,,Runaway,"Sebastián Yatra, Daddy Yankee, and Natti Natasha featuring Jonas Brothers",,,,2,2019-10-05,reggaetón-pop,urbano,Reggaetón-pop bilingüe (ver filtro de idioma),P2_2016_2020,1
+si supieras|daddy yankee,2019,,Si Supieras,Daddy Yankee and Wisin & Yandel,,,,2,2019-10-12,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+date la vuelta|luis fonsi,2019,,Date la Vuelta,"Luis Fonsi, Sebastián Yatra, and Nicky Jam",,,,2,2019-10-19,reggaetón-pop,urbano,Reggaetón-pop,P2_2016_2020,1
+loco contigo|dj snake,2019,,Loco Contigo,"DJ Snake, J Balvin, and Tyga",,,,2,2019-11-02,reggaetón-pop,urbano,Reggaetón-pop bilingüe (ver filtro de idioma),P2_2016_2020,1
+aventura|lunay,2019,,Aventura,"Lunay, Ozuna and Anuel AA",,,,2,2019-11-09,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+bonita|juanes,2019,,Bonita,Juanes and Sebastián Yatra,,,,2,2019-11-16,pop / reggaetón,hibrido,Pop latino con base de reggaetón; género discutible,P2_2016_2020,1
+11 pm|maluma,2019,,11 PM,Maluma,,,,2,2019-11-23,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+la cancion|j balvin,2019,,La Canción,J Balvin and Bad Bunny,,,,2,2019-11-30,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+no elegi conocerte|banda sinaloense ms de sergio lizarraga,2019,,No Elegí Conocerte,Banda Sinaloense MS de Sergio Lizárraga,,,,2,2019-12-07,banda,no_urbano,Banda sinaloense,P2_2016_2020,0
+hasta que salga el sol|ozuna,2019,,Hasta Que Salga el Sol,Ozuna,,,,2,2019-12-14,reggaetón,urbano,Reggaetón (canción distinta a la de Don Omar),P2_2016_2020,0
+que tire pa lante|daddy yankee,2019,,Que Tire Pa Lante,Daddy Yankee,,,,2,2019-12-21,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+yo x ti tu x mi|rosalia,2019,,"Yo x Ti, Tu x Mi",Rosalía and Ozuna,,,,2,2019-12-28,bachata / reggaetón,hibrido,Fusión bachata-reggaetón; género discutible,P2_2016_2020,1
+caballero|alejandro fernandez,2020,,Caballero,Alejandro Fernández,,,,2,2020-01-04,mariachi,no_urbano,Regional mexicano,P2_2016_2020,0
+escondidos|la adictiva banda san jose de mesillas,2020,,Escondidos,La Adictiva Banda San Jose de Mesillas,,,,2,2020-01-18,banda,no_urbano,Banda sinaloense,P2_2016_2020,0
+que pena|maluma,2020,,Qué Pena,Maluma and J Balvin,,,,2,2020-02-29,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+blanco|j balvin,2020,,Blanco,J Balvin,,,,2,2020-03-21,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+subelo|static,2020,,Subelo (Further Up),Static & Ben El & Pitbull,,,,2,2020-03-28,dance-pop,no_urbano,Dance-pop,P2_2016_2020,1
+muevelo|nicky jam,2020,,Muévelo,Nicky Jam & Daddy Yankee,,,,2,2020-04-04,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+fantasia|ozuna,2020,,Fantasia,Ozuna,,,,2,2020-04-11,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+me quedare contigo|pitbull,2020,,Me Quedare Contigo,Pitbull & Ne-Yo featuring Lenier & El Micha,,,,2,2020-04-18,dance-pop,no_urbano,Dance-pop,P2_2016_2020,1
+morado|j balvin,2020,,Morado,J Balvin,,,,2,2020-04-25,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+keii|anuel aa,2020,,Keii,Anuel AA,,,,2,2020-05-02,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+definitivamente|daddy yankee,2020,,Definitivamente,Daddy Yankee & Sech,,,,2,2020-05-30,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+si me dices que si|reik,2020,,Si Me Dices Que Si,"Reik, Farruko & Camilo",,,,2,2020-06-27,reggaetón-pop,urbano,Reggaetón-pop con Farruko,P2_2016_2020,1
+tbt|sebastian yatra,2020,,TBT,"Sebastián Yatra, Rauw Alejandro & Manuel Turizo",,,,2,2020-07-04,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+admv|maluma,2020,,ADMV,Maluma,,,,2,2020-07-11,balada pop,hibrido,Balada pop de intérprete urbano; género discutible,P2_2016_2020,0
+rojo|j balvin,2020,,Rojo,J Balvin,,,,2,2020-07-18,reggaetón-pop,urbano,Reggaetón-pop,P2_2016_2020,0
+carita de inocente|prince royce,2020,,Carita de Inocente,Prince Royce,,,,2,2020-07-25,bachata,no_urbano,Bachata,P2_2016_2020,0
+un dia|j balvin,2020,,Un Día (One Day),"J Balvin, Dua Lipa, Bad Bunny and Tainy",,,,2,2020-08-08,reggaetón,urbano,Reggaetón bilingüe (ver filtro de idioma),P2_2016_2020,1
+futbol y rumba|anuel aa,2020,,Fútbol y Rumba,Anuel AA and Enrique Iglesias,,,,2,2020-08-08,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+caramelo|ozuna,2020,,Caramelo,"Ozuna, Karol G, and Myke Towers",,,,2,2020-08-15,reggaetón,urbano,Reggaetón (remezcla con Karol G y Myke Towers),P2_2016_2020,1
+porfa|feid,2020,,Porfa,"Feid, J Balvin, Maluma, Nicky Jam, Sech, and Justin Quiles",,,,2,2020-08-29,reggaetón,urbano,Reggaetón (remezcla con varios intérpretes),P2_2016_2020,1
+agua|tainy,2020,,Agua,Tainy and J Balvin,,,,2,2020-09-05,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+tattoo remix|rauw alejandro,2020,,Tattoo Remix,Rauw Alejandro and Camilo,,,,2,2020-09-12,reggaetón,urbano,Reggaetón (remezcla con Camilo),P2_2016_2020,1
+relacion|sech,2020,,Relación,"Sech, Daddy Yankee and J Balvin featuring Rosalía & Farruko",,,,2,2020-09-26,reggaetón,urbano,Reggaetón (remezcla con Rosalía y Farruko),P2_2016_2020,1
+ay dios mio|karol g,2020,,"Ay, Dios Mio!",Karol G,,,,2,2020-10-10,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+feel the beat|black eyed peas,2020,,Feel the Beat,Black Eyed Peas and Maluma,,,,2,2020-11-14,pop / reggaetón,hibrido,Pop-reggaetón bilingüe con Maluma (ver filtro de idioma),P2_2016_2020,1
+gistro amarillo|ozuna,2020,,Gistro Amarillo,Ozuna and Wisin,,,,2,2020-11-21,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+la toxica|farruko,2020,,La Toxica,Farruko,,,,2,2020-11-28,reggaetón,urbano,Reggaetón,P2_2016_2020,0
+la santa|bad bunny,2020,,La Santa,Bad Bunny and Daddy Yankee,,,,2,2020-12-05,reggaetón,urbano,Reggaetón,P2_2016_2020,1
+te quiero baby|chesca,2020,,Te Quiero Baby,"Chesca, Pitbull and Frankie Valli",,,,2,2020-12-12,dance-pop,no_urbano,Dance-pop en inglés,P2_2016_2020,1
+pa ti|jennifer lopez,2020,,Pa Ti,Jennifer Lopez and Maluma,,,,2,2020-12-19,reggaetón-pop,urbano,Reggaetón-pop con Maluma,P2_2016_2020,1
+mi nina|los legendarios,2021,,Mi Niña,"Los Legendarios, Wisin and Myke Towers",,,,2,2021-01-16,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+la nota|manuel turizo,2021,,La Nota,"Manuel Turizo, Myke Towers and Rauw Alejandro",,,,2,2021-01-23,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+vida de rico|camilo,2021,,Vida de Rico,Camilo,,,,2,2021-01-30,pop,no_urbano,Pop,P3_2021_2025,0
+despeinada|ozuna,2021,,Despeinada,Ozuna and Camilo,,,,2,2021-02-06,reggaetón-pop,urbano,Reggaetón-pop con Ozuna,P3_2021_2025,1
+chica ideal|sebastian yatra,2021,,Chica Ideal,Sebastián Yatra and Guaynaa,,,,2,2021-02-20,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+de vuelta pa la vuelta|daddy yankee,2021,,De Vuelta Pa La Vuelta,Daddy Yankee and Marc Anthony,,,,2,2021-02-27,salsa / reggaetón,hibrido,Fusión salsa-reggaetón; género discutible,P3_2021_2025,1
+travesuras|nio garcia,2021,,Travesuras,Nio Garcia and Casper Magico,,,,2,2021-03-06,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+girl like me|black eyed peas,2021,,Girl Like Me,Black Eyed Peas and Shakira,,,,2,2021-03-13,pop / dancehall,hibrido,Pop-dancehall bilingüe (ver filtro de idioma),P3_2021_2025,1
+un amor eterno|marc anthony,2021,,Un Amor Eterno,Marc Anthony,,,,2,2021-03-20,salsa,no_urbano,Salsa,P3_2021_2025,0
+baila conmigo|selena gomez,2021,,Baila Conmigo,Selena Gomez with Rauw Alejandro,,,,2,2021-03-27,reggaetón-pop,urbano,Reggaetón-pop,P3_2021_2025,1
+tu veneno|j balvin,2021,,Tu Veneno,J Balvin,,,,2,2021-04-03,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+location|karol g,2021,,Location,"Karol G, Anuel AA and J Balvin",,,,2,2021-04-10,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+antes que salga el sol|natti natasha,2021,,Antes Que Salga El Sol,Natti Natasha and Prince Royce,,,,2,2021-04-17,bachata,no_urbano,Bachata,P3_2021_2025,1
+fan de tus fotos|nicky jam,2021,,Fan de Tus Fotos,Nicky Jam and Romeo Santos,,,,2,2021-05-01,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+problema|daddy yankee,2021,,#Problema,Daddy Yankee,,,,2,2021-05-15,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+vacio|luis fonsi,2021,,Vacio,Luis Fonsi & Rauw Alejandro,,,,2,2021-05-29,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+el makinon|karol g,2021,,El Makinón,Karol G & Mariah Angeliq,,,,2,2021-06-05,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+tiempo|ozuna,2021,,Tiempo,Ozuna,,,,2,2021-06-26,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+otra noche sin ti|j balvin,2021,,Otra Noche Sin Ti,J Balvin and Khalid,,,,2,2021-07-10,reggaetón,urbano,Reggaetón bilingüe (ver filtro de idioma),P3_2021_2025,1
+ram pam pam|natti natasha,2021,,Ram Pam Pam,Natti Natasha and Becky G,,,,2,2021-07-17,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+millones|camilo,2021,,Millones,Camilo,,,,2,2021-07-24,pop,no_urbano,Pop,P3_2021_2025,0
+viendo el techo|jay wheeler,2021,,Viendo El Techo,Jay Wheeler,,,,2,2021-08-07,reggaetón,urbano,Reggaetón romántico,P3_2021_2025,0
+pareja del ano|sebastian yatra,2021,,Pareja del Año,Sebastián Yatra and Myke Towers,,,,2,2021-08-14,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+volvi|aventura,2021,,Volví,Aventura and Bad Bunny,,,,2,2021-08-21,bachata,no_urbano,Bachata,P3_2021_2025,1
+loco|justin quiles,2021,,Loco,"Justin Quiles, Chimbala, Zion & Lennox",,,,2,2021-08-28,reggaetón,urbano,Reggaetón (remezcla con Chimbala y Zion & Lennox),P3_2021_2025,1
+in da getto|j balvin,2021,,In da Getto,J Balvin and Skrillex,,,,2,2021-09-11,reggaetón / house,hibrido,Fusión reggaetón-house; género discutible,P3_2021_2025,1
+deja vu|tainy,2021,,Deja Vu,Tainy and Yandel,,,,2,2021-09-18,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+la funka|ozuna,2021,,La Funka,Ozuna,,,,2,2021-09-25,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+me pase|enrique iglesias,2021,,Me Pasé,Enrique Iglesias featuring Farruko,,,,2,2021-10-02,reggaetón-pop,urbano,Reggaetón-pop con Farruko,P3_2021_2025,1
+noches en miami|natti natasha,2021,,Noches En Miami,Natti Natasha,,,,2,2021-10-16,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+lao a lao|prince royce,2021,,Lao a Lao,Prince Royce,,,,2,2021-10-30,bachata,no_urbano,Bachata,P3_2021_2025,0
+sobrio|maluma,2021,,Sobrio,Maluma,,,,2,2021-11-06,pop urbano,hibrido,Pop urbano de intérprete urbano; género discutible,P3_2021_2025,0
+besame|luis fonsi,2021,,Bésame,Luis Fonsi and Myke Towers,,,,2,2021-11-27,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+dos tragos|jay wheeler,2021,,Dos Tragos,Jay Wheeler,,,,2,2021-12-04,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+sal y perrea|sech,2021,,Sal y Perrea,"Sech, Daddy Yankee and J Balvin",,,,2,2021-12-11,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+una nota|j balvin,2022,,Una Nota,J Balvin and Sech,,,,2,2022-01-01,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+emojis de corazones|wisin,2022,,Emojis de Corazones,"Wisin, Jhay Cortez, and Ozuna featuring Los Legendarios",,,,2,2022-01-08,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+se menea|don omar,2022,,Se Menea,Don Omar and Nio García,,,,2,2022-01-15,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+el incomprendido|farruko,2022,,El Incomprendido,"Farruko, Víctor Cárdenas and DJ Adoni",,,,2,2022-01-29,EDM / guaracha,hibrido,EDM-guaracha de intérprete urbano; género discutible,P3_2021_2025,1
+ley seca|jhay cortez,2022,,Ley Seca,Jhay Cortez and Anuel AA,,,,2,2022-02-05,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+sejodioto|karol g,2022,,Sejodioto,Karol G,,,,2,2022-02-12,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+tacones rojos|sebastian yatra,2022,,Tacones Rojos,Sebastián Yatra,,,,2,2022-02-19,pop,no_urbano,Pop,P3_2021_2025,0
+sus huellas|romeo santos,2022,,Sus Huellas,Romeo Santos,,,,2,2022-02-26,bachata,no_urbano,Bachata,P3_2021_2025,0
+curame|rauw alejandro,2022,,Cúrame,Rauw Alejandro,,,,2,2022-03-05,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+mala|marc anthony,2022,,Mala,Marc Anthony,,,,2,2022-03-12,salsa,no_urbano,Salsa,P3_2021_2025,0
+recordar|wisin,2022,,Recordar,Wisin & Yandel,,,,2,2022-03-19,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+sg|dj snake,2022,,SG,"DJ Snake, Ozuna, Lisa & Megan Thee Stallion",,,,2,2022-04-02,reggaetón,urbano,Reggaetón bilingüe (ver filtro de idioma),P3_2021_2025,1
+soy el unico|yahritza y su esencia,2022,,Soy el Único,Yahritza y Su Esencia,,,,2,2022-04-09,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,0
+forever my love|j balvin,2022,,Forever My Love,J Balvin and Ed Sheeran,,,,2,2022-04-09,pop,no_urbano,Pop bilingüe,P3_2021_2025,1
+ojos rojos|nicky jam,2022,,Ojos Rojos,Nicky Jam,,,,2,2022-04-23,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+te felicito|shakira,2022,,Te Felicito,Shakira and Rauw Alejandro,,,,2,2022-05-07,reggaetón-pop,urbano,Reggaetón-pop con Rauw Alejandro,P3_2021_2025,1
+la fama|rosalia,2022,,La Fama,Rosalía featuring The Weeknd,,,,2,2022-05-14,bachata,no_urbano,Bachata,P3_2021_2025,1
+medallo|blessd,2022,,Medallo,"Blessd, Justin Quiles and Lenny Tavárez",,,,2,2022-05-21,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+deprimida|ozuna,2022,,Deprimida,Ozuna,,,,2,2022-06-04,bachata,no_urbano,Bachata de intérprete urbano; sin base de reggaetón,P3_2021_2025,0
+te espero|prince royce,2022,,Te Espero,Prince Royce and María Becerra,,,,2,2022-06-25,bachata,no_urbano,Bachata,P3_2021_2025,1
+desesperados|rauw alejandro,2022,,Desesperados,Rauw Alejandro and Chencho Corleone,,,,2,2022-07-02,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+soy yo|don omar,2022,,Soy Yo,"Don Omar, Wisin and Gente de Zona",,,,2,2022-07-16,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+buenos dias|wisin,2022,,Buenos Días,Wisin and Camilo,,,,2,2022-07-23,reggaetón-pop,urbano,Reggaetón-pop,P3_2021_2025,1
+remix|daddy yankee,2022,,Remix,Daddy Yankee,,,,2,2022-08-06,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+sensual bebe|jhay cortez,2022,,Sensual Bebe,Jhay Cortez,,,,2,2022-08-13,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+a veces bien y a veces mal|ricky martin,2022,,A Veces Bien Y A Veces Mal,Ricky Martin and Reik,,,,2,2022-08-27,pop,no_urbano,Pop,P3_2021_2025,1
+mayor que usted|natti natasha,2022,,Mayor Que Usted,"Natti Natasha, Daddy Yankee and Wisin & Yandel",,,,2,2022-09-03,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+baile con mi ex|becky g,2022,,Bailé Con Mi Ex,Becky G,,,,2,2022-09-10,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+sin fin|romeo santos,2022,,Sin Fin,Romeo Santos and Justin Timberlake,,,,2,2022-09-17,bachata,no_urbano,Bachata,P3_2021_2025,1
+llorar y llorar|mau y ricky,2022,,Llorar y Llorar,Mau y Ricky and Carin León,,,,2,2022-10-01,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,1
+despecha|rosalia,2022,,Despechá,Rosalía,,,,2,2022-10-08,merengue / mambo,no_urbano,Merengue-mambo,P3_2021_2025,0
+junio|maluma,2022,,Junio,Maluma,,,,2,2022-10-15,pop balada,hibrido,Pop-balada de intérprete urbano; género discutible,P3_2021_2025,0
+somos iguales|ozuna,2022,,Somos Iguales,Ozuna and Tokischa featuring Louchie Lou & Michie One,,,,2,2022-10-22,dancehall / reggae,hibrido,Dancehall-reggae con intérpretes urbanos; género discutible,P3_2021_2025,1
+la bachata|manuel turizo,2022,,La Bachata,Manuel Turizo,,,,2,2022-10-29,bachata,no_urbano,Bachata de intérprete urbano,P3_2021_2025,0
+quevedo bzrp music sessions vol 52|bizarrap,2022,,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap and Quevedo,,,,2,2022-11-05,electrónica / urbano,hibrido,Electrónica con voz urbana; género discutible,P3_2021_2025,1
+monotonia|shakira,2022,,Monotonía,Shakira and Ozuna,,,,2,2022-12-03,bachata,no_urbano,Bachata,P3_2021_2025,1
+arhbo|ozuna,2022,,Arhbo,Ozuna and Gims,,,,2,2022-12-17,afropop,no_urbano,Afropop,P3_2021_2025,1
+bzrp music sessions vol 53|bizarrap,2023,,"Bzrp Music Sessions, Vol. 53",Bizarrap and Shakira,,,,2,2023-01-28,electropop,no_urbano,Electropop,P3_2021_2025,1
+el panuelo|romeo santos,2023,,El Pañuelo,Romeo Santos and Rosalía,,,,2,2023-02-25,bachata,no_urbano,Bachata,P3_2021_2025,1
+hey mor|ozuna,2023,,Hey Mor,Ozuna and Feid,,,,2,2023-03-04,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+besos moja2|wisin,2023,,Besos Moja2,Wisin & Yandel and Rosalía,,,,2,2023-04-01,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+ulala|myke towers,2023,,Ulalá,Myke Towers and Daddy Yankee,,,,2,2023-04-08,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+yandel 150|yandel,2023,,Yandel 150,Yandel and Feid,,,,2,2023-04-15,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+el merengue|marshmello,2023,,El Merengue,Marshmello and Manuel Turizo,,,,2,2023-06-10,merengue / EDM,no_urbano,Merengue electrónico,P3_2021_2025,1
+me enrd|prince royce,2023,,Me EnRD,Prince Royce,,,,2,2023-07-29,bachata,no_urbano,Bachata,P3_2021_2025,0
+no es que me quiera ir|alejandro fernandez,2023,,No es Que Me Quiera Ir,Alejandro Fernández,,,,2,2023-08-05,mariachi,no_urbano,Regional mexicano,P3_2021_2025,0
+nina bonita|feid,2023,,Niña Bonita,Feid and Sean Paul,,,,2,2023-08-19,reggaetón / dancehall,urbano,Reggaetón con dancehall,P3_2021_2025,1
+mi ex tenia razon|karol g,2023,,Mi Ex Tenía Razón,Karol G,,,,2,2023-08-26,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,0
+bailando bachata|chayanne,2023,,Bailando Bachata,Chayanne,,,,2,2023-08-26,bachata,no_urbano,Bachata,P3_2021_2025,0
+vagabundo|sebastian yatra,2023,,Vagabundo,"Sebastián Yatra, Manuel Turizo and Beéle",,,,2,2023-09-02,reggaetón-pop,urbano,Reggaetón-pop,P3_2021_2025,1
+tucu|ozuna,2023,,Tucu,Ozuna and Amarion,,,,2,2023-09-09,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+podemos repetirlo|don omar,2023,,Podemos Repetirlo,Don Omar and Chencho Corleone,,,,2,2023-09-16,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+lala|myke towers,2023,,Lala,Myke Towers,,,,2,2023-09-23,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+lady gaga|peso pluma,2023,,Lady Gaga,"Peso Pluma, Gabito Ballesteros and Junior H",,,,2,2023-09-30,corridos,no_urbano,Corridos tumbados,P3_2021_2025,1
+un cigarrillo|chencho corleone,2023,,Un Cigarrillo,Chencho Corleone,,,,2,2023-09-30,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+coco loco|maluma,2023,,Coco Loco,Maluma,,,,2,2023-10-14,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+gently|drake,2023,,Gently,Drake featuring Bad Bunny,,,,2,2023-10-21,reggaetón,urbano,Reggaetón bilingüe (ver filtro de idioma),P3_2021_2025,1
+umaye|venesti,2023,,Umaye.,Venesti,,,,2,2023-10-21,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+copa vacia|shakira,2023,,Copa Vacía,Shakira and Manuel Turizo,,,,2,2023-10-28,pop / reggaetón,hibrido,Pop latino con base de reggaetón; género discutible,P3_2021_2025,1
+dientes|j balvin,2023,,Dientes,"J Balvin, Usher and DJ Khaled",,,,2,2023-11-04,reggaetón,urbano,Reggaetón bilingüe (ver filtro de idioma),P3_2021_2025,1
+el jefe|shakira,2023,,El Jefe,Shakira and Fuerza Regida,,,,2,2023-11-18,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,1
+un preview|bad bunny,2023,,Un Preview,Bad Bunny,,,,2,2023-12-02,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+pasajero|farruko,2023,,Pasa_je_ro,Farruko,,,,2,2023-12-09,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+segun quien|maluma,2023,,Según Quién,Maluma and Carín León,,,,2,2023-12-16,banda,no_urbano,Banda con Maluma,P3_2021_2025,1
+bubalu|feid,2024,,Bubalú,Feid and Rema,,,,2,2024-01-13,afrobeat / reggaetón,urbano,Reggaetón con afrobeat,P3_2021_2025,1
+igual que un angel|kali uchis,2024,,Igual Que Un Ángel,Kali Uchis and Peso Pluma,,,,2,2024-01-27,R&B / pop,no_urbano,R&B-pop,P3_2021_2025,1
+borracho y loco|yandel,2024,,Borracho y Loco,Yandel and Myke Towers,,,,2,2024-02-17,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+la falda|myke towers,2024,,La Falda,Myke Towers,,,,2,2024-02-24,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+por el contrario|becky g,2024,,Por el Contrario,Becky G with Leonardo Aguilar and Ángela Aguilar,,,,2,2024-03-09,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,1
+no es normal|venesti,2024,,No Es Normal,"Venesti, Nacho and Maffio",,,,2,2024-03-16,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+baccarat|ozuna,2024,,Baccarat,Ozuna,,,,2,2024-03-30,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+punteria|shakira,2024,,Puntería,Shakira and Cardi B,,,,2,2024-04-06,reggaetón-pop,urbano,Reggaetón-pop bilingüe (ver filtro de idioma),P3_2021_2025,1
+tqmqa|eladio carrion,2024,,TQMQA,Eladio Carrión,,,,2,2024-04-13,trap latino,urbano,Trap latino,P3_2021_2025,0
+cosas de la peda|prince royce,2024,,Cosas de la Peda,Prince Royce and Gabito Ballesteros,,,,2,2024-04-27,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,1
+luna|feid,2024,,Luna,Feid and ATL Jacob,,,,2,2024-05-04,reggaetón,urbano,Reggaetón (canción distinta a la de Kapo y Wisin),P3_2021_2025,1
+|shakira,2024,,(Entre Paréntesis),Shakira and Grupo Frontera,,,,2,2024-05-18,regional mexicano,no_urbano,Regional mexicano-pop,P3_2021_2025,1
+la capi|myke towers,2024,,La Capi,Myke Towers,,,,2,2024-05-25,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+si sabe ferxxo|blessd,2024,,Si Sabe Ferxxo,Blessd and Feid,,,,2,2024-06-01,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+cobijas ajenas|alejandro fernandez,2024,,Cobijas Ajenas,Alejandro Fernández and Alfredo Olivas,,,,2,2024-06-08,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,1
+amor|danny ocean,2024,,Amor,Danny Ocean,,,,2,2024-06-15,pop urbano,hibrido,Pop urbano con dancehall; género discutible,P3_2021_2025,0
+sabor a michelada|el fantasma,2024,,Sabor a Michelada,El Fantasma,,,,2,2024-06-22,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,0
+te va a doler|thalia,2024,,Te Va a Doler,Thalía and Grupo Firme,,,,2,2024-07-06,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,1
+el beneficio de la duda|grupo firme,2024,,El Beneficio de la Duda,Grupo Firme,,,,2,2024-07-13,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,0
+perdonarte para que|los angeles azules,2024,,"Perdonarte, ¿Para Qué?",Los Ángeles Azules and Emilia,,,,2,2024-07-20,cumbia,no_urbano,Cumbia,P3_2021_2025,1
+soltera|shakira,2025,,Soltera,Shakira,,,,2,2025-01-04,pop / reggaetón,hibrido,Pop con base urbana; género discutible,P3_2021_2025,0
+el club|bad bunny,2025,,El Clúb,Bad Bunny,,,,2,2025-02-08,house / dembow,hibrido,House-dembow de intérprete urbano; género discutible,P3_2021_2025,0
+otra noche|myke towers,2025,,Otra Noche,Myke Towers featuring Darell,,,,2,2025-02-22,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+doblexxo|j balvin,2025,,Doblexxó,J Balvin and Feid,,,,2,2025-03-15,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+el amor de mi herida|carin leon,2025,,El Amor de Mi Herida,Carín León,,,,2,2025-03-22,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,0
+khe|rauw alejandro,2025,,Khé?,Rauw Alejandro and Romeo Santos,,,,2,2025-03-29,reggaetón / bachata,hibrido,Fusión reggaetón-bachata; género discutible,P3_2021_2025,1
+hablame claro|yandel,2025,,Háblame Claro,Yandel and Feid,,,,2,2025-04-12,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+mas que tu|ozuna,2025,,Más Que Tú,Ozuna and Kapo,,,,2,2025-04-19,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+imaginate|danny ocean,2025,,Imagínate,Danny Ocean and Kapo,,,,2,2025-04-26,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+degenere|myke towers,2025,,Degenere,Myke Towers featuring Benny Blanco,,,,2,2025-05-03,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+raices|gloria estefan,2025,,Raíces,Gloria Estefan,,,,2,2025-05-10,salsa / pop,no_urbano,Salsa-pop,P3_2021_2025,0
+no se dice|gerardo coronel el jerry,2025,,No Se Dice,Gerardo Coronel 'El Jerry',,,,2,2025-05-17,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,0
+ahi estabas tu|carin leon,2025,,Ahí Estabas Tú,Carín León,,,,2,2025-05-24,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,0
+en privado|xavi,2025,,En Privado,Xavi and Manuel Turizo,,,,2,2025-06-07,corridos / reggaetón,hibrido,Fusión corrido-reggaetón; género discutible,P3_2021_2025,1
+vestido rojo|silvestre dangond,2025,,Vestido Rojo,Silvestre Dangond and Emilia,,,,2,2025-06-14,vallenato,no_urbano,Vallenato,P3_2021_2025,1
+desde hoy|natti natasha,2025,,Desde Hoy,Natti Natasha,,,,2,2025-06-21,pop urbano,hibrido,Pop urbano; género discutible,P3_2021_2025,0
+how deep is your love|prince royce,2025,,How Deep Is Your Love,Prince Royce,,,,2,2025-06-28,bachata,no_urbano,Bachata (versión en bachata),P3_2021_2025,0
+la pelirroja|sebastian yatra,2025,,La Pelirroja,Sebastián Yatra,,,,2,2025-07-05,pop,no_urbano,Pop,P3_2021_2025,0
+rio|j balvin,2025,,Rio,J Balvin,,,,2,2025-07-12,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+carita linda|rauw alejandro,2025,,Carita Linda,Rauw Alejandro,,,,2,2025-07-19,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+latina foreva|karol g,2025,,Latina Foreva,Karol G,,,,2,2025-07-26,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+me toca a mi|morat,2025,,Me Toca a Mí,Morat with Camilo,,,,2,2025-08-02,pop,no_urbano,Pop,P3_2021_2025,1
+soleao|myke towers,2025,,Soleao,Myke Towers and Quevedo,,,,2,2025-08-09,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+marlboro rojo|fuerza regida,2025,,Marlboro Rojo,Fuerza Regida,,,,2,2025-08-30,corridos,no_urbano,Corridos,P3_2021_2025,0
+ojos tristes|selena gomez,2025,,Ojos Tristes,"Selena Gomez, Benny Blanco and The Marías",,,,2,2025-08-30,pop,no_urbano,Pop en inglés,P3_2021_2025,1
+luna|kapo,2025,,Luna,Kapo and Wisin,,,,2,2025-09-06,reggaetón,urbano,Reggaetón (canción distinta a la de Feid),P3_2021_2025,1
+vivir sin aire|mana,2025,,Vivir Sin Aire,Maná and Carín León,,,,2,2025-09-13,pop rock,no_urbano,Pop rock,P3_2021_2025,1
+me esta doliendo|carin leon,2025,,Me Está Doliendo,Carín León and Alejandro Fernández,,,,2,2025-09-20,regional mexicano,no_urbano,Regional mexicano,P3_2021_2025,1
+la vecina|gloria estefan,2025,,La Vecina (No Sé Na),Gloria Estefan,,,,2,2025-09-27,salsa,no_urbano,Salsa,P3_2021_2025,0
+bronceador|maluma,2025,,Bronceador,Maluma,,,,2,2025-10-04,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+sirenita|ozuna,2025,,Sirenita,Ozuna,,,,2,2025-10-11,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+noventa|dj snake,2025,,Noventa,DJ Snake and J Balvin,,,,2,2025-10-18,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+sonriele|daddy yankee,2025,,Sonríele,Daddy Yankee,,,,2,2025-10-25,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+portate bonito|anuel aa,2025,,Pórtate Bonito,Anuel AA and Blessd,,,,2,2025-11-08,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+tengo celos|myke towers,2025,,Tengo Celos,Myke Towers,,,,2,2025-11-15,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+dificile|venesti,2025,,Difícile,Venesti and Mike Bahía,,,,2,2025-11-22,reggaetón-pop,urbano,Reggaetón-pop,P3_2021_2025,1
+verano rosa|karol g,2025,,Verano Rosa,Karol G and Feid,,,,2,2025-11-29,reggaetón,urbano,Reggaetón,P3_2021_2025,1
+i want it that way|prince royce,2025,,I Want It That Way,Prince Royce,,,,2,2025-12-06,bachata,no_urbano,Bachata (versión en bachata),P3_2021_2025,0
+que me quiera ma|marc anthony,2025,,Que Me Quiera Má,Marc Anthony and Wisin,,,,2,2025-12-13,salsa / reggaetón,hibrido,Fusión salsa-reggaetón; género discutible,P3_2021_2025,1
+se lo juro mor|feid,2025,,Se Lo Juro Mor,Feid,,,,2,2025-12-20,reggaetón,urbano,Reggaetón,P3_2021_2025,0
+lokita por mi|romeo santos,2025,,Lokita Por Mí,Romeo Santos and Prince Royce,,,,2,2025-12-27,bachata,no_urbano,Bachata,P3_2021_2025,1

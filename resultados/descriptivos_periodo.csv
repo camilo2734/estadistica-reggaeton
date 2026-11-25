@@ -1,0 +1,5 @@
+periodo,n,llm_sexual_explicito_pct,llm_sexual_explicito_ic_inf,llm_sexual_explicito_ic_sup,llm_cuerpo_pct,llm_cuerpo_ic_inf,llm_cuerpo_ic_sup,llm_agencia_pct,llm_agencia_ic_inf,llm_agencia_ic_sup,llm_sexual_media,mattr50_mediana,n_palabras_mediana,lex_sexual_x100_mediana,participa_mujer_pct,lex_sexual_presente_pct,lex_sexual_presente_pct_ponderado,mattr50_media_ponderada,n_estrato1,n_estrato2,poblacion_estimada
+P1_2011_2015,24,25.0,12.0,44.9,50.0,31.43,68.57,16.67,6.68,35.85,0.96,0.67,368.5,0.0,8.33,29.17,32.14,0.67,14,10,33.09
+P2_2016_2020,84,50.0,39.54,60.46,64.29,53.62,73.7,57.14,46.48,67.18,1.4,0.7,404.0,0.0,22.62,47.62,44.62,0.68,38,46,130.0
+P3_2021_2025,78,60.26,49.16,70.39,64.1,53.03,73.85,55.13,44.11,65.67,1.46,0.74,389.0,0.0,16.67,48.72,44.92,0.72,27,51,129.98
+Total,186,51.08,43.94,58.16,62.37,55.22,69.01,51.08,43.94,58.16,1.37,0.71,394.0,0.0,18.28,45.7,43.34,0.7,79,107,293.07
